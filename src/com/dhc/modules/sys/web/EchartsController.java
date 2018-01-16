@@ -135,6 +135,41 @@ public class EchartsController {
     @RequestMapping(value = {"/eventfind"})
     public String eventFind(){return "modules/sys/pic/multimodal/eventfind";}
 
+    /*多模态事件分析*/
+
+    /*1.多模态事件观点*/
+    @RequestMapping(value = {"/event_view_anls/event_intro"})
+    public String eventIntro(){return "modules/sys/pic/mult_event_anls/event_view_anls/event_intro";}
+
+    @RequestMapping(value = {"/event_view_anls/event_trent"})
+    public String eventTrent(){return "modules/sys/pic/mult_event_anls/event_view_anls/event_trent";}
+
+    @RequestMapping(value = {"/event_view_anls/keywords_cloud"})
+    public String keywordsCloud(){return "modules/sys/pic/mult_event_anls/event_view_anls/keywords_cloud";}
+
+    @RequestMapping(value = {"/event_view_anls/user_point"})
+    public String userPoint(){return "modules/sys/pic/mult_event_anls/event_view_anls/user_point";}
+
+    @RequestMapping(value = {"/event_view_anls/video_interpretation"})
+    public String videoInterpretation(){return "modules/sys/pic/mult_event_anls/event_view_anls/video_interpretation";}
+
+    @RequestMapping(value = {"/event_view_anls/first_initiator"})
+    public String firstInitiator(){return "modules/sys/pic/mult_event_anls/event_view_anls/first_initiator";}
+    /*2.多模态事件重构*/
+    @RequestMapping(value = {"/event_recon/event_recon"})
+    public String eventRecon(){return "modules/sys/pic/mult_event_anls/event_recon/event_recon";}
+    /*3.影响力分析*/
+    @RequestMapping(value = {"/impact_anls/event_intro"})
+    public String eventImpactIntro(){return "modules/sys/pic/mult_event_anls/impact_anls/event_intro";}
+
+    @RequestMapping(value = {"/impact_anls/event_trent"})
+    public String eventImpactTrent(){return "modules/sys/pic/mult_event_anls/impact_anls/event_trent";}
+
+    @RequestMapping(value = {"/impact_anls/commu_impact"})
+    public String eventImpactCommu(){return "modules/sys/pic/mult_event_anls/impact_anls/commu_impact";}
+
+
+
     @RequestMapping(value = {"/nameList"})
     @ResponseBody
     public List<String> nameList(String UserId, String table) throws IOException, URISyntaxException {
