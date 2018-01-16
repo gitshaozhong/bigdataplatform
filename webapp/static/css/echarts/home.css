@@ -1,0 +1,1359 @@
+.weather {
+    float: left;
+    margin-left: 1%;
+    width: 19%
+}
+
+.customer_index {
+    float: left;
+    width: 80%
+}
+
+#brandClass, #brandRank {
+    height: 300px
+}
+
+#brand .near_commlist {
+    width: 100%
+}
+
+.btn_normal {
+    white-space: nowrap;
+    padding: 5px 10px;
+    background: #FFF;
+    color: #999;
+    border-radius: 2px
+}
+
+.btn_active {
+    background: #00B1F0;
+    color: #fff
+}
+
+.coming-box {
+    height: 616px
+}
+
+.coming-map {
+    height: 100%
+}
+
+.coming-box {
+    position: relative
+}
+
+.coming-handle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 1000
+}
+
+.coming-handle a {
+    float: left;
+    display: inline-block;
+    white-space: nowrap;
+    padding: 5px 10px;
+    background: #FFF;
+    color: #999;
+    border-radius: 2px
+}
+
+.coming-handle a.active {
+    background: #00B1F0;
+    color: #fff
+}
+
+.coming-guit {
+    position: absolute;
+    bottom: 68px;
+    left: 30px;
+    z-index: 1000;
+    font-size: 11px;
+    line-height: 20px
+}
+
+.coming-guit .coming-guit-color {
+    width: 20px;
+    overflow: hidden
+}
+
+.coming-guit span {
+    float: left;
+    display: inline-block;
+    width: 20px;
+    height: 20px
+}
+
+.coming-guit .coming-guit-min {
+    position: absolute;
+    width: 20px;
+    text-align: center;
+    top: 0;
+    color: #fff;
+    right: 0
+}
+
+.coming-guit .coming-guit-max {
+    color: #fff;
+    position: absolute;
+    width: 20px;
+    text-align: center;
+    bottom: 0;
+    right: 0
+}
+
+.comming-filter {
+    background: rgba(255, 255, 255, .9);
+    position: absolute;
+    right: 20px;
+    top: 60px;
+    width: 250px;
+    z-index: 1000;
+    -webkit-transition: all .2s ease-in;
+    -moz-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    right: -300px;
+    border-radius: 3px;
+    border: 1px solid #199ED8;
+    box-shadow: 1px 1px 1px #CCC;
+    overflow: hidden
+}
+
+.comming-filter .comming-filter-title {
+    background: #199ED8;
+    padding: 5px 10px;
+    color: #fff
+}
+
+.comming-filter .comming-filter-key {
+    border-radius: 4px;
+    margin-top: 5px;
+    color: rgba(0, 0, 0, .6);
+    margin: 10px
+}
+
+.comming-filter .comming-filter-key input {
+    height: 30px;
+    padding: 5px;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    color: #999;
+    box-sizing: border-box
+}
+
+.comming-filter .comming-filter-range {
+    padding: 10px 10px 5px;
+    color: #666
+}
+
+.comming-filter .comming-filter-range .comming-filter-bar {
+    height: 40px;
+    margin: 0 5px;
+    position: relative
+}
+
+.comming-filter .comming-filter-range .comming-filter-bar .comming-filter-bar-bg {
+    position: absolute;
+    height: 4px;
+    background: #eee;
+    border-radius: 5px;
+    width: 100%;
+    top: 12px;
+    left: 0;
+    z-index: 0
+}
+
+.comming-filter .comming-filter-range .comming-filter-bar .comming-filter-bar-handle {
+    cursor: pointer;
+    z-index: 100;
+    border: 1px solid #0059B0;
+    height: 10px;
+    text-align: center;
+    width: 10px;
+    font-size: 20px;
+    line-height: 10px;
+    border-radius: 50px;
+    position: absolute;
+    margin: 0 -5px;
+    top: 9px;
+    background: #fff
+}
+
+.comming-filter .comming-filter-range .comming-filter-bar .comming-filter-bar-handle .comming-filter-bar-handle-in {
+    position: absolute;
+    height: 4px;
+    width: 4px;
+    background: #0059B0;
+    top: 50%;
+    left: 50%;
+    border-radius: 2px;
+    margin: -2px
+}
+
+.comming-filter .comming-filter-range .comming-filter-bar .comming-filter-bar-tips {
+    margin-top: 4px;
+    color: #999;
+    width: 100%
+}
+
+.comming-filter .comming-filter-range .comming-filter-bar .comming-filter-bar-tips .comming-filter-bar-right {
+    float: right
+}
+
+.comming-filter .comming-filter-bar-button {
+    text-align: center;
+    padding: 10px
+}
+
+.comming-filter .comming-filter-bar-button button {
+    color: #fff;
+    width: 50%;
+    padding: 5px 20px;
+    border: 0;
+    font-size: 14px;
+    border-radius: 4px;
+    background: #199ED8;
+    margin: 0
+}
+
+.community-chart {
+    height: 250px;
+    box-shadow: 0 0 5px #ccc
+}
+
+.community-chart-box {
+    -webkit-transition: all .2s ease-in;
+    -moz-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    position: absolute;
+    bottom: -200px;
+    height: 250px;
+    width: 100%;
+    z-index: 10000;
+    background: rgba(255, 255, 255, .9);
+    left: 0
+}
+
+.community-chart-box .community-chart-change {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 10000
+}
+
+.community-chart-box .community-chart-change button {
+    white-space: nowrap;
+    padding: 5px 10px;
+    background: #FFF;
+    color: #999;
+    border-radius: 2px;
+    width: 80px;
+    background-color: #e4e4e4;
+    border: 0;
+    float: left;
+    font-size: 14px;
+    font-family: 'Microsoft YaHei', Helvetica, Arial, sans-serif;
+    outline: 0;
+    cursor: pointer
+}
+
+.community-chart-box .community-chart-change button.active {
+    background: #00B1F0;
+    color: #fff
+}
+
+.comming-chart-handle {
+    background: url(http://huiyan.baidu.com/static/huiyan/static/home/widget/coming/array.png);
+    background-size: cover;
+    width: 15px;
+    text-indent: -100em;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    width: 30px;
+    height: 30px;
+    margin-left: -15px;
+    color: #fff;
+    cursor: pointer;
+    z-index: 1000;
+    -webkit-transition: all .2s ease-in;
+    -moz-transition: all .2s ease-in;
+    -webkit-animation: comminghandle 1.5s linear 0s infinite
+}
+
+.community-chart-box.active {
+    bottom: 0
+}
+
+.community-chart-box.active .comming-chart-handle {
+    -webkit-transform: rotate(180deg);
+    -webkit-animation: none
+}
+
+.community-cricle {
+    -webkit-transition: all .2s ease-in;
+    -moz-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    position: absolute;
+    top: 60px;
+    right: -320px;
+    z-index: 9999
+}
+
+.community-cricle a {
+    white-space: nowrap;
+    padding: 5px 10px;
+    background: #FFF;
+    color: #999;
+    border-radius: 2px;
+    float: left;
+    display: inline-block
+}
+
+.community-cricle a.active {
+    background: #00B1F0;
+    color: #fff
+}
+
+@-webkit-keyframes comminghandle {
+    from {
+        top: 10px
+    }
+    to {
+        top: 5px;
+        opacity: .3
+    }
+}
+
+.comming-nodata {
+    text-align: center;
+    height: 2em;
+    line-height: 2em;
+    display: block;
+    background: #fffed1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10000;
+    width: 100%
+}
+
+.leftbtn {
+    cursor: pointer;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px
+}
+
+.community-fullscreen {
+    cursor: pointer;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    left: 26px;
+    top: 255px
+}
+
+.community-fullscreen .community-fullscreen-in {
+    position: absolute;
+    top: 5px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    border: 2px solid #aaa;
+    overflow: hidden
+}
+
+.community-fullscreen .community-fullscreen-crossx {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    bottom: 0;
+    right: 10px;
+    background-color: #fff
+}
+
+.community-fullscreen .community-fullscreen-crossy {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    bottom: 10px;
+    right: 0;
+    background-color: #fff
+}
+
+.community-fullscreen .community-fullscreen-crosslinex {
+    position: absolute;
+    left: -100%;
+    top: 11px;
+    width: 400%;
+    z-index: 1000;
+    border-top: 1px solid #ccc;
+    -webkit-transform: rotate(45deg)
+}
+
+.community-fullscreen .community-fullscreen-crossliney {
+    position: absolute;
+    left: -100%;
+    top: 0;
+    width: 400%;
+    z-index: 1000;
+    border-top: 1px solid #ccc;
+    -webkit-transform: rotate(-45deg)
+}
+
+.community-location {
+    cursor: pointer;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    left: 26px;
+    top: 220px
+}
+
+.community-location .community-location-cricle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 14px;
+    height: 14px;
+    margin: -9px 0 0 -9px;
+    border-radius: 11px;
+    border: 2px solid #bbb
+}
+
+.community-location .community-location-cricle .community-location-x {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    height: 100%;
+    border-left: 2px solid #bbb;
+    margin-left: -1px
+}
+
+.community-location .community-location-cricle .community-location-y {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    border-top: 2px solid #bbb;
+    margin-top: -1px
+}
+
+.community-location .community-location-cricle .community-location-in {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 4px;
+    height: 4px;
+    border-radius: 8px;
+    margin: -4px 0 0 -4px;
+    border: 2px solid #fff;
+    background: #999
+}
+
+:-webkit-full-screen {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0
+}
+
+:-moz-full-screen {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0
+}
+
+full-screen {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0
+}
+
+.coming-box:-webkit-full-screen {
+    box-sizing: border-box;
+    height: 100%
+}
+
+.coming-box:-moz-full-screen {
+    box-sizing: border-box;
+    height: 100%
+}
+
+.coming-box:full-screen {
+    box-sizing: border-box;
+    height: 100%
+}
+
+.community-tips {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .6);
+    pointer-events: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 10px
+}
+
+#coming_business_main {
+    height: 600px;
+    width: 50%;
+    float: left
+}
+
+#coming_business_sub {
+    height: 600px;
+    float: left;
+    width: 50%
+}
+
+.selectBox {
+    margin-bottom: 10px
+}
+
+#coming_business_city_select {
+    width: 135px
+}
+
+#coming_province_list {
+    overflow: hidden
+}
+
+#coming_city_list {
+    height: 500px
+}
+
+#coming_province_map {
+    height: 500px
+}
+
+#coming_district_list {
+    height: 500px
+}
+
+#coming_business_list {
+    height: 500px
+}
+
+#districtArea {
+    overflow: hidden
+}
+
+#coming_city {
+    height: 500px
+}
+
+#coming_district {
+    height: 500px
+}
+
+#main_coming_district {
+    height: 500px;
+    width: 50%;
+    float: left
+}
+
+#sub_coming_district {
+    height: 500px;
+    width: 50%;
+    float: left
+}
+
+#select_coming_district_city {
+    width: 135px;
+    margin-left: 5px
+}
+
+#select_coming_province {
+    width: 135px
+}
+
+.selectBox {
+    margin-bottom: 10px
+}
+
+#coming_district_main {
+    height: 500px;
+    width: 50%;
+    float: left
+}
+
+#coming_district_sub {
+    height: 500px;
+    width: 50%;
+    float: left
+}
+
+#coming_province_list_other {
+    height: 500px
+}
+
+#coming_province_list_bj_other {
+    height: 500px
+}
+
+#coming_province_map {
+    height: 500px
+}
+
+.customer_trend {
+    padding-top: 10px
+}
+
+#echart_customer_trend {
+    height: 500px
+}
+
+#echart_customer_density {
+    height: 500px
+}
+
+#echart_compare_age {
+    height: 350px
+}
+
+#echart_compare_gender {
+    height: 350px
+}
+
+#hobby_main {
+    height: 400px
+}
+
+#hobby_second {
+    margin-top: 20px;
+    height: 400px
+}
+
+.hobby_select {
+    position: relative;
+    padding-left: 70px;
+    padding-top: 10px;
+    border-top: 2px solid #5dbafb;
+    display: none;
+    margin-top: 20px
+}
+
+.hobby_select span {
+    height: 25px;
+    position: absolute;
+    top: -14px;
+    color: #5dbafb;
+    width: 25px;
+    line-height: 25px;
+    text-align: center;
+    font-size: 25px
+}
+
+.hobby_select span.hobby_select_arrow_2 {
+    color: #fff;
+    top: -12px
+}
+
+#hobby_property {
+    height: 400px
+}
+
+.customer_index {
+    margin-bottom: 5px
+}
+
+.customer_index dl {
+    color: #108ec8;
+    width: 32%;
+    margin: 2px 1% 2px 0;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #dbdee0;
+    height: 137px;
+    box-sizing: border-box;
+    background: #fff
+}
+
+.customer_index dl.add {
+    width: 34%;
+    margin-right: 0
+}
+
+.customer_index dt {
+    font-size: 14px;
+    color: #717e9a;
+    letter-spacing: 1px;
+    padding: 20px 0 5px
+}
+
+.customer_index dd {
+    font-size: 14px
+}
+
+.customer_index .num {
+    font-size: 40px
+}
+
+#addBlock {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto
+}
+
+.customer_newold {
+    padding-top: 10px
+}
+
+#echart_customer_newold {
+    height: 300px
+}
+
+.customer_trend {
+    padding-top: 10px
+}
+
+#echart_customer_trend {
+    height: 500px
+}
+
+.customer_trend .timecategory ul {
+    margin-left: 40px
+}
+
+#map {
+    height: 650px
+}
+
+#echart_going_rival {
+    height: 600px
+}
+
+.near_comm {
+    padding: 10px;
+    overflow: hidden
+}
+
+.near_commnav {
+    overflow: hidden;
+    display: block;
+    background: #ececec;
+    padding: 5px;
+    padding-left: 10px;
+    padding-bottom: 0
+}
+
+.near_commnav li {
+    float: left;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    border: 1px solid #ececec
+}
+
+.near_commnav li.active {
+    border: 1px solid #ccc;
+    border-bottom-color: #ececec;
+    color: #5593e9;
+    bottom: -1px;
+    background: #fff;
+    position: relative
+}
+
+.near_commlist {
+    width: 50%;
+    float: left
+}
+
+.near_commlist_title {
+    cursor: pointer
+}
+
+.near_commlist_title:hover {
+    background: #eee
+}
+
+.near_commlist span {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    height: 22px;
+    line-height: 22px;
+    overflow: hidden
+}
+
+.near_clr {
+    display: inline-block;
+    width: 10%;
+    text-align: center
+}
+
+.near_cln {
+    display: inline-block;
+    width: 40%
+}
+
+.near_clh {
+    display: inline-block;
+    width: 50%
+}
+
+.near_commmap {
+    width: 49%;
+    float: right;
+    border: 1px solid #ccc;
+    height: 550px
+}
+
+.near_comm_date {
+    text-align: right;
+    color: #999;
+    padding-top: 8px
+}
+
+.near_customer {
+    padding-top: 10px
+}
+
+#echart_consumtype {
+    height: 500px
+}
+
+#echart_consumlevel {
+    height: 500px
+}
+
+.near_poi {
+    padding-bottom: 5px
+}
+
+#map {
+    height: 650px
+}
+
+.filter {
+    overflow: hidden;
+    transition: all .5s
+}
+
+.filter dl {
+    line-height: 24px;
+    overflow: hidden;
+    border-bottom: 1px solid #e1e1e1;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    box-sizing: content-box
+}
+
+.filter dl dt {
+    width: 50px;
+    float: left
+}
+
+.filter dl dd {
+    overflow: hidden;
+    position: relative;
+    transition: all .5s
+}
+
+.filter dl dd .more {
+    color: #999;
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer
+}
+
+.filter dl label {
+    display: inline-block;
+    width: 120px;
+    line-height: 26px;
+    white-space: nowrap
+}
+
+.filter dl label b {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-top: 5px;
+    border-radius: 5px
+}
+
+.filter dl label i {
+    font-style: normal;
+    display: inline-block
+}
+
+.filter dl s {
+    text-decoration: none
+}
+
+.filter dl .txt {
+    padding: 0 2px 0 5px
+}
+
+.switch {
+    border-top: 1px solid #ccc;
+    margin: 20px 0 25px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, .2);
+    height: 0;
+    text-align: center
+}
+
+.switch span {
+    position: relative;
+    top: -15px;
+    background: #F5F5F5;
+    padding: 0 30px;
+    cursor: pointer
+}
+
+.switch span s {
+    text-decoration: none
+}
+
+.arrow {
+    width: 9px;
+    height: 11px;
+    background: url(http://huiyan.baidu.com/static/huiyan/static/home/widget/near_poi/arrow.png) no-repeat 0 0;
+    display: inline-block;
+    margin-left: 5px
+}
+
+.arrow_up {
+    background-position: -10px 0
+}
+
+#portrait_gender {
+    height: 300px
+}
+
+#portrait_age {
+    height: 300px
+}
+
+#portrait_interest {
+    clear: both;
+    height: 500px
+}
+
+.hotsearch_types {
+    overflow: hidden;
+    display: block;
+    background: #ececec;
+    padding: 5px;
+    padding-left: 10px;
+    padding-bottom: 0
+}
+
+.hotsearch_types li {
+    float: left;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer
+}
+
+.hotsearch_types li.active {
+    border: 1px solid #ccc;
+    border-bottom-color: #ececec;
+    color: #5593e9;
+    bottom: -1px;
+    background: #fff;
+    position: relative
+}
+
+.poi_list {
+    width: 100%
+}
+
+.poi_list span {
+    height: 22px;
+    line-height: 22px;
+    overflow: hidden;
+    white-space: nowrap
+}
+
+.list_num {
+    display: inline-block;
+    width: 10%;
+    text-align: center
+}
+
+.list_name {
+    display: inline-block;
+    width: 40%
+}
+
+.list_show {
+    display: inline-block;
+    width: 50%
+}
+
+.num_info {
+    display: none;
+    position: absolute;
+    height: 30px;
+    width: 130px;
+    font-size: 12px;
+    padding-top: 8px;
+    text-align: center;
+    border-radius: 5px;
+    color: #fff;
+    background: rgba(0, 0, 0, .6);
+    bottom: 50px;
+    right: 80px
+}
+
+#actual_perhour {
+    height: 500px;
+    z-index: 0
+}
+
+#actual_perhour .chart_info {
+    position: absolute;
+    right: 0;
+    top: 0
+}
+
+.actual_perhour_chart {
+    height: 500px;
+    margin-right: 200px;
+    margin-left: 100px
+}
+
+#indoorMap_actual {
+    height: 500px;
+    z-index: 0
+}
+
+.storey_actual dd {
+    position: relative
+}
+
+.storey_actual dd .timepoint {
+    position: absolute;
+    top: 5px;
+    left: 100px;
+    right: 20px;
+    z-index: 1
+}
+
+.chart_info {
+    width: 180px;
+    margin-right: 20px;
+    padding-top: 80px
+}
+
+.chart_info_title {
+    font-size: 20px
+}
+
+.chart_info_number {
+    font-size: 40px;
+    color: #00699B;
+    padding: 10px
+}
+
+.chart_info_comp {
+    line-height: 30px;
+    border-top: 1px solid #f4f4f4;
+    color: #666
+}
+
+.chart_info_comp label {
+    cursor: pointer
+}
+
+.storey_customer_count {
+    height: 500px
+}
+
+.storey_customer_month {
+    height: 500px
+}
+
+.storey_customer_view {
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: 20px
+}
+
+.scvl {
+    float: left
+}
+
+.scvr {
+    float: right
+}
+
+.scvl_top {
+    color: #717e9a;
+    margin-top: 15px;
+    height: 30px;
+    line-height: 30px
+}
+
+.scvl_time {
+    text-align: right;
+    padding-right: 20px;
+    color: #999
+}
+
+.scvl_number {
+    color: #108ec8
+}
+
+.scvl_number {
+    height: 40px;
+    line-height: 40px;
+    font-size: 40px;
+    overflow: hidden
+}
+
+.storey_customer_viewBox {
+    display: inline-block;
+    width: 33%;
+    background: #fff;
+    border: 1px solid #dbdee0;
+    height: 120px
+}
+
+.storey_flow_main {
+    position: relative
+}
+
+.storey_flow_chart {
+    height: 500px;
+    padding-left: 100px
+}
+
+.floorselect {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    overflow: hidden;
+    width: 78px;
+    border: 1px solid #acb2bb;
+    box-shadow: 0 0 3px rgba(0, 0, 0, .11);
+    z-index: 999
+}
+
+.floorselect ul {
+    background: #fff;
+    margin: 0;
+    padding: 0;
+    margin-bottom: -1px
+}
+
+.floorselect li {
+    height: 29px;
+    border-bottom: 1px solid #e1e1e1;
+    line-height: 29px;
+    text-align: center;
+    list-style: none;
+    cursor: pointer
+}
+
+.floorselect li:hover {
+    background: #f9f9f9
+}
+
+.floorselect li.current {
+    background: #ededed
+}
+
+.timecategory {
+    overflow: hidden
+}
+
+.timecategory ul {
+    float: left;
+    border: 1px solid #ABB2BA;
+    margin-top: 10px;
+    margin-left: 140px
+}
+
+.timecategory ul li {
+    border-right: 1px solid #ccc;
+    float: left;
+    padding: 5px 10px;
+    cursor: pointer
+}
+
+.timecategory ul li.cur {
+    background: #eee;
+    cursor: default
+}
+
+.timecategory ul li:last-child {
+    border-right: 0
+}
+
+.storey_flow_main .compareTime {
+    position: relative;
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 20px
+}
+
+.storey_flow_main .compareTime_calendar {
+    position: absolute;
+    top: 40px;
+    left: 350px;
+    z-index: 1000;
+    background: pink;
+    width: 500px;
+    height: 240px
+}
+
+#storey_all_enter {
+    height: 500px
+}
+
+#storey_all_oldnew {
+    height: 500px
+}
+
+#storey_all_stay {
+    height: 500px
+}
+
+.storey_customer_view {
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: 20px
+}
+
+.scvl {
+    float: left
+}
+
+.scvr {
+    float: right
+}
+
+.scvl_top {
+    color: #717e9a;
+    margin-top: 15px;
+    height: 30px;
+    line-height: 30px
+}
+
+.scvl_time {
+    text-align: right;
+    padding-right: 20px;
+    color: #999
+}
+
+.scvl_number {
+    color: #108ec8
+}
+
+.scvl_number {
+    height: 40px;
+    line-height: 40px;
+    font-size: 40px;
+    overflow: hidden
+}
+
+.storey_customer_viewBox {
+    display: inline-block;
+    width: 33%;
+    background: #fff;
+    border: 1px solid #dbdee0;
+    height: 120px
+}
+
+.storey_flow_main {
+    position: relative
+}
+
+.storey_flow_comp {
+    margin-right: 15px;
+    height: 500px
+}
+
+.storey_flow_main {
+    position: relative
+}
+
+.storey_flow_comp {
+    height: 500px
+}
+
+.storey_flow_main {
+    position: relative
+}
+
+.storey_flow_stay {
+    height: 500px
+}
+
+.storey_flow_main {
+    position: relative
+}
+
+.storey_flow_transform {
+    height: 500px
+}
+
+#indoorMap {
+    height: 500px;
+    z-index: 0
+}
+
+.storey_hot dd {
+    position: relative
+}
+
+.storey_hot dd .timepoint {
+    position: absolute;
+    top: 5px;
+    width: 600px;
+    right: 20px;
+    z-index: 1
+}
+
+.weather .weatherList {
+    overflow: hidden
+}
+
+.weather .weatherList .weatherItem {
+    height: 137px;
+    box-sizing: border-box;
+    color: #fff;
+    background: #4cb8eb;
+    padding: 8px 10px;
+    margin-bottom: 0
+}
+
+.weather .weatherList .weatherItem dt {
+    padding: 3px 0 10px;
+    font-weight: 700;
+    text-align: center
+}
+
+.weather .weatherList .weatherItem dd {
+    padding-top: 5px;
+    border-top: 1px solid #7bd1fa
+}
+
+.weather .weatherList .weatherItem img {
+    margin: 0 5px
+}

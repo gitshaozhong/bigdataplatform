@@ -1,0 +1,148 @@
+* { font-family:simsun;
+    margin:0px;
+    padding:0px;
+}
+body {
+
+    text-align:center;
+}
+ul, li { list-style:none;}
+a{
+    text-decoration:none;
+    color:#3381BF;
+    margin-left: 10px;
+    font-size: 18px;
+}
+a:hover {
+    text-decoration:underline;
+}
+#movie_rank {
+    height:530px;
+    width: 55%;
+    /*float: right;*/
+    position: absolute;
+    top: 55px;
+    right:2% ;
+}
+
+.box2 {
+    border:1px solid #ADDFF2;
+    text-align:left;
+    overflow:hidden;
+    color:#9C9C9C;
+      }
+.box2 {
+    margin-bottom:7px;
+}
+
+.box2 h2{
+    background:#EEF7FE;
+    height:21px;
+    line-height:21px;
+    overflow-y:hidden;
+    border-bottom:1px solid #ADDFF2;
+    color:#1974C8;
+    font-size:12px;
+    padding:0px 8px;
+    }
+
+.box2 .inner{ padding:8px;
+        line-height:18px;
+         overflow:hidden;
+        color:#3083C7;
+    }
+.box2 a{ color:#3083C7;
+    /*white-space:nowrap;*/
+    }
+.rank_list{
+    line-height:18px;
+    margin:auto;
+    padding-top:5px;
+     }
+.rank_list li{
+
+    height:19px;
+    margin-bottom:15px;
+
+    width:400px;
+    padding-left:20px;
+    /*white-space:nowrap;*/
+    overflow:hidden;
+    position:relative;
+}
+.rank_list li a{
+    display:inline-block;  /*只有有这个状态或者float属性，<a>的宽度,padding才起作用*/
+    width: 300px;
+    overflow: hidden;
+}
+
+.rank_list li.top3 em{
+    background:#FFE4B7;
+    border:1px solid #FFBB8B;
+    color:#FF6800;
+   }
+.rank_list em{
+    position:absolute;
+    left:0;
+    top:0;
+    width:20px;
+    height:20px;
+    border:1px solid #B1E0F4;
+    color:#6298CC;
+    font-style:normal;
+    font-size:16px;
+    font-family:Arial;
+    background:#E6F0FD;
+    text-align:center;
+    line-height:12px;
+    overflow:hidden;
+
+  }
+
+#movie_rank .rank_list span{
+    /*position:absolute;
+    width:40px;*/
+    float: right;
+    color:#B7B7B7;
+    text-align:right;
+    height:14px;
+    color: #db21c7;
+    /*left:300px;*/
+}
+
+#all{
+    display:none;
+    position:absolute;
+    width: 280px;
+    height: 210px;
+    background-color: #9ba2ff;
+    color: white;
+    border: solid 1px #9ba2ff;
+    z-index:2;
+    padding-top:10px;
+    border-radius: 5%;
+    /*opacity:0.6;*/
+    /*filter: alpha(opacity=);*/
+}
+#all1{
+    text-align: center;
+}
+#sanjiaoxing{
+    display: none;
+    /*opacity:0.6;*/
+    width: 20px;
+    height: 20px;
+    background-color: #9ba2ff;
+    position: absolute;
+    top: 25px;
+    left: 62px;
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    z-index:1;
+}
+#Type,#time{
+    margin: 0px 5px;
+    color: blue;
+    font-size: 25px;
+    text-align: center;
+}

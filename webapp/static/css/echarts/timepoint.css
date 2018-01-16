@@ -1,0 +1,94 @@
+.timepoint {
+    position: relative;
+    height: 60px
+}
+
+.timepoint_bar, .timepoint_btn {
+    position: absolute
+}
+
+.timepoint_bar {
+    left: 0;
+    right: 35px;
+    top: 0;
+    bottom: 0
+}
+
+.timepoint_bar_bg {
+    background: #dadada;
+    border: 1px solid #c1c1c1;
+    position: absolute;
+    height: 4px;
+    top: 50%;
+    margin-top: -2px;
+    left: 5px;
+    right: 5px;
+    border-radius: 4px
+}
+
+.timepoint_btn {
+    top: 50%;
+    right: 0;
+    width: 35px;
+    height: 35px;
+    margin-top: -18px
+}
+
+.timepoint_btn_play, .timepoint_btn_stop {
+    width: 35px;
+    height: 35px;
+    background: url(http://huiyan.baidu.com/static/huiyan/static/common/widget/time/icon.png);
+    border: 0;
+    margin: 0;
+    padding: 0;
+    outline: 0
+}
+
+.timepoint_btn_play {
+    background-position: 0 -37px
+}
+
+.timepoint_btn_stop {
+    display: none;
+    background-position: 0 -2px
+}
+
+.timepoint_point {
+    position: absolute;
+    width: 20px;
+    line-height: 15px;
+    height: 30px;
+    font-size: 10px;
+    text-align: center;
+    top: 50%;
+    margin-top: -8px;
+    z-index: 10;
+    cursor: pointer
+}
+
+.timepoint_point:hover .timepoint_point_input:after, .timepoint_point_input_active:after {
+    width: 6px;
+    height: 6px;
+    background: #278df2;
+    display: block;
+    content: " ";
+    position: absolute;
+    overflow: hidden;
+    border-radius: 8px;
+    top: 50%;
+    left: 50%;
+    margin: -3px 0 0 -3px
+}
+
+.timepoint_point span {
+    display: inline-block
+}
+
+.timepoint_point_input {
+    background: #fff;
+    border: 1px solid #959595;
+    width: 16px;
+    height: 16px;
+    border-radius: 15px;
+    position: relative
+}

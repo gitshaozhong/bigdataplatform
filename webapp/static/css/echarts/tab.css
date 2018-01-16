@@ -1,0 +1,24 @@
+.tab {
+    background: #ECECEC;
+    border: 1px solid #E4E4E4
+}
+
+.tab ul {
+    height: 37px;
+    padding: 0 10px;
+    line-height: 37px;
+    margin-top: 5px;
+    margin-bottom: -1px;
+    overflow: hidden
+}
+
+.tab ul li {
+    float: left;
+    padding: 0 30px;
+    cursor: pointer
+}
+
+.tab ul li.cur {
+    background: #fff;
+    cursor: default
+}

@@ -1,0 +1,28 @@
+#tipBox {
+    line-height: 32px;
+    height: 32px;
+    padding: 0 20px;
+    background: #fffed1;
+    position: relative;
+    overflow: hidden;
+    clear: both;
+    transition: all 1s
+}
+
+#tipBox .title {
+    color: #ff8072
+}
+
+#tipBox .message {
+    color: #444
+}
+
+#tipBox .close_icon {
+    width: 15px;
+    height: 14px;
+    position: absolute;
+    right: 15px;
+    top: 8px;
+    background: url(http://huiyan.baidu.com/static/huiyan/static/common/widget/tip/close.png) no-repeat 0 0;
+    cursor: pointer
+}

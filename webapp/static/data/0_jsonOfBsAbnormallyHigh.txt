@@ -1,0 +1,3901 @@
+[{
+	"bsid": "367400070012",
+	"traffic": 0,
+	"userWZ": -272,
+	"lng": 117.305116,
+	"userZ": 101,
+	"user": 272,
+	"lat": 38.961688,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0190",
+	"traffic": 0,
+	"userWZ": -594,
+	"lng": 117.220865,
+	"userZ": 8,
+	"user": 179,
+	"lat": 39.143955,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070252",
+	"traffic": 0,
+	"userWZ": -251,
+	"lng": 117.522326,
+	"userZ": 121,
+	"user": 292,
+	"lat": 39.108356,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070302",
+	"traffic": 0,
+	"userWZ": -836,
+	"lng": 117.605156,
+	"userZ": 21,
+	"user": 192,
+	"lat": 39.027956,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0340",
+	"traffic": 0,
+	"userWZ": -31,
+	"lng": 117.106327,
+	"userZ": 25,
+	"user": 196,
+	"lat": 39.033518,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D03F0",
+	"traffic": 0,
+	"userWZ": -961,
+	"lng": 117.2393,
+	"userZ": 93,
+	"user": 264,
+	"lat": 39.134839,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0442",
+	"traffic": 0,
+	"userWZ": -36,
+	"lng": 116.98409,
+	"userZ": 33,
+	"user": 204,
+	"lat": 39.066056,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D04A0",
+	"traffic": 0,
+	"userWZ": -314,
+	"lng": 117.209461,
+	"userZ": 1,
+	"user": 172,
+	"lat": 39.117953,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0540",
+	"traffic": 0,
+	"userWZ": -1482,
+	"lng": 117.231295,
+	"userZ": 239,
+	"user": 410,
+	"lat": 39.151714,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0541",
+	"traffic": 0,
+	"userWZ": -903,
+	"lng": 117.22301,
+	"userZ": 29,
+	"user": 200,
+	"lat": 39.140541,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D05B1",
+	"traffic": 0,
+	"userWZ": -127,
+	"lng": 117.08452,
+	"userZ": 179,
+	"user": 350,
+	"lat": 39.194064,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0620",
+	"traffic": 0,
+	"userWZ": -554,
+	"lng": 117.155379,
+	"userZ": 139,
+	"user": 310,
+	"lat": 39.176141,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0621",
+	"traffic": 0,
+	"userWZ": -399,
+	"lng": 117.153307,
+	"userZ": 43,
+	"user": 214,
+	"lat": 39.173348,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070681",
+	"traffic": 0,
+	"userWZ": -5,
+	"lng": 117.384256,
+	"userZ": 3,
+	"user": 174,
+	"lat": 38.971219,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000706D1",
+	"traffic": 0,
+	"userWZ": -218,
+	"lng": 117.48888,
+	"userZ": 56,
+	"user": 227,
+	"lat": 38.973947,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000706D2",
+	"traffic": 0,
+	"userWZ": -229,
+	"lng": 117.479403,
+	"userZ": 107,
+	"user": 278,
+	"lat": 38.989,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000706F2",
+	"traffic": 0,
+	"userWZ": -295,
+	"lng": 117.550508,
+	"userZ": 88,
+	"user": 259,
+	"lat": 38.989279,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070770",
+	"traffic": 0,
+	"userWZ": -349,
+	"lng": 117.375102,
+	"userZ": 106,
+	"user": 277,
+	"lat": 38.866196,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D08E2",
+	"traffic": 0,
+	"userWZ": -220,
+	"lng": 117.286863,
+	"userZ": 87,
+	"user": 258,
+	"lat": 39.016991,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0922",
+	"traffic": 0,
+	"userWZ": -152,
+	"lng": 117.199848,
+	"userZ": 137,
+	"user": 308,
+	"lat": 39.038927,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000709A1",
+	"traffic": 0,
+	"userWZ": -176,
+	"lng": 117.089791,
+	"userZ": 42,
+	"user": 213,
+	"lat": 39.534186,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070A60",
+	"traffic": 0,
+	"userWZ": -316,
+	"lng": 117.465356,
+	"userZ": 29,
+	"user": 200,
+	"lat": 39.197165,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070A91",
+	"traffic": 0,
+	"userWZ": -9,
+	"lng": 117.399137,
+	"userZ": 114,
+	"user": 285,
+	"lat": 39.216394,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070B30",
+	"traffic": 0,
+	"userWZ": -134,
+	"lng": 117.352901,
+	"userZ": 3,
+	"user": 174,
+	"lat": 39.556639,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0B60",
+	"traffic": 0,
+	"userWZ": -150,
+	"lng": 117.296439,
+	"userZ": 296,
+	"user": 467,
+	"lat": 38.982583,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0BB1",
+	"traffic": 0,
+	"userWZ": -454,
+	"lng": 117.208612,
+	"userZ": 186,
+	"user": 357,
+	"lat": 39.026823,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0D60",
+	"traffic": 0,
+	"userWZ": -306,
+	"lng": 117.165623,
+	"userZ": 76,
+	"user": 247,
+	"lat": 39.138459,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0DE0",
+	"traffic": 0,
+	"userWZ": -2060,
+	"lng": 117.204825,
+	"userZ": 11,
+	"user": 182,
+	"lat": 39.111975,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0DE2",
+	"traffic": 0,
+	"userWZ": -934,
+	"lng": 117.199835,
+	"userZ": 115,
+	"user": 286,
+	"lat": 39.113183,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070E91",
+	"traffic": 0,
+	"userWZ": -106,
+	"lng": 117.47631,
+	"userZ": 95,
+	"user": 266,
+	"lat": 39.072619,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070E92",
+	"traffic": 0,
+	"userWZ": -24,
+	"lng": 117.464103,
+	"userZ": 307,
+	"user": 478,
+	"lat": 39.083612,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070F22",
+	"traffic": 0,
+	"userWZ": -235,
+	"lng": 117.473763,
+	"userZ": 78,
+	"user": 249,
+	"lat": 39.152812,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070F30",
+	"traffic": 0,
+	"userWZ": -869,
+	"lng": 117.308029,
+	"userZ": 49,
+	"user": 220,
+	"lat": 39.0674,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070F42",
+	"traffic": 0,
+	"userWZ": -125,
+	"lng": 117.550431,
+	"userZ": 8,
+	"user": 179,
+	"lat": 39.08416,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070F51",
+	"traffic": 0,
+	"userWZ": -9,
+	"lng": 117.534473,
+	"userZ": 100,
+	"user": 271,
+	"lat": 39.071109,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070F70",
+	"traffic": 0,
+	"userWZ": -82,
+	"lng": 117.574041,
+	"userZ": 372,
+	"user": 543,
+	"lat": 38.970246,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400070F80",
+	"traffic": 0,
+	"userWZ": -66,
+	"lng": 117.57113,
+	"userZ": 54,
+	"user": 225,
+	"lat": 38.982979,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0FB0",
+	"traffic": 0,
+	"userWZ": -1069,
+	"lng": 117.2631,
+	"userZ": 233,
+	"user": 404,
+	"lat": 39.104351,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0FC0",
+	"traffic": 0,
+	"userWZ": -797,
+	"lng": 117.23915,
+	"userZ": 46,
+	"user": 217,
+	"lat": 39.133342,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0FD0",
+	"traffic": 0,
+	"userWZ": -1234,
+	"lng": 117.237613,
+	"userZ": 22,
+	"user": 193,
+	"lat": 39.159123,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0FD1",
+	"traffic": 0,
+	"userWZ": -892,
+	"lng": 117.23496,
+	"userZ": 203,
+	"user": 374,
+	"lat": 39.157032,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0FD2",
+	"traffic": 0,
+	"userWZ": -484,
+	"lng": 117.233474,
+	"userZ": 25,
+	"user": 196,
+	"lat": 39.159497,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D0FF2",
+	"traffic": 0,
+	"userWZ": -368,
+	"lng": 117.215392,
+	"userZ": 569,
+	"user": 740,
+	"lat": 39.119488,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D1011",
+	"traffic": 0,
+	"userWZ": -1782,
+	"lng": 117.231604,
+	"userZ": 43,
+	"user": 214,
+	"lat": 39.13796,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D1031",
+	"traffic": 0,
+	"userWZ": -380,
+	"lng": 117.253871,
+	"userZ": 6,
+	"user": 177,
+	"lat": 39.127769,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D1032",
+	"traffic": 0,
+	"userWZ": -164,
+	"lng": 117.249729,
+	"userZ": 46,
+	"user": 217,
+	"lat": 39.127769,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D11D0",
+	"traffic": 0,
+	"userWZ": -773,
+	"lng": 117.265434,
+	"userZ": 58,
+	"user": 229,
+	"lat": 39.110583,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D11D1",
+	"traffic": 0,
+	"userWZ": -1194,
+	"lng": 117.262262,
+	"userZ": 51,
+	"user": 222,
+	"lat": 39.10851,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D11D2",
+	"traffic": 0,
+	"userWZ": -673,
+	"lng": 117.261885,
+	"userZ": 8,
+	"user": 179,
+	"lat": 39.111873,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071342",
+	"traffic": 0,
+	"userWZ": -371,
+	"lng": 117.780346,
+	"userZ": 32,
+	"user": 203,
+	"lat": 39.240311,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000714C1",
+	"traffic": 0,
+	"userWZ": -55,
+	"lng": 117.91379,
+	"userZ": 111,
+	"user": 282,
+	"lat": 39.205592,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071550",
+	"traffic": 0,
+	"userWZ": -4,
+	"lng": 117.79816,
+	"userZ": 38,
+	"user": 209,
+	"lat": 39.35752,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000715E1",
+	"traffic": 0,
+	"userWZ": -564,
+	"lng": 117.277021,
+	"userZ": 16,
+	"user": 187,
+	"lat": 39.650886,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071661",
+	"traffic": 0,
+	"userWZ": -103,
+	"lng": 117.495938,
+	"userZ": 175,
+	"user": 346,
+	"lat": 39.171594,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000716A2",
+	"traffic": 0,
+	"userWZ": -55,
+	"lng": 117.828822,
+	"userZ": 42,
+	"user": 213,
+	"lat": 39.360946,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000716C1",
+	"traffic": 0,
+	"userWZ": -409,
+	"lng": 117.272065,
+	"userZ": 96,
+	"user": 267,
+	"lat": 40.072635,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000717B2",
+	"traffic": 0,
+	"userWZ": -111,
+	"lng": 117.357769,
+	"userZ": 4,
+	"user": 175,
+	"lat": 39.227853,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071830",
+	"traffic": 0,
+	"userWZ": -98,
+	"lng": 117.26007,
+	"userZ": 22,
+	"user": 193,
+	"lat": 39.855442,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071991",
+	"traffic": 0,
+	"userWZ": -157,
+	"lng": 117.78205,
+	"userZ": 109,
+	"user": 280,
+	"lat": 39.242416,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071992",
+	"traffic": 0,
+	"userWZ": -130,
+	"lng": 117.777599,
+	"userZ": 80,
+	"user": 251,
+	"lat": 39.251924,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000719D2",
+	"traffic": 0,
+	"userWZ": -509,
+	"lng": 117.336103,
+	"userZ": 100,
+	"user": 271,
+	"lat": 39.230287,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000719E0",
+	"traffic": 0,
+	"userWZ": -29,
+	"lng": 117.391741,
+	"userZ": 20,
+	"user": 191,
+	"lat": 39.894712,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071A82",
+	"traffic": 0,
+	"userWZ": -130,
+	"lng": 117.432261,
+	"userZ": 13,
+	"user": 184,
+	"lat": 39.406204,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071AA2",
+	"traffic": 0,
+	"userWZ": -135,
+	"lng": 117.412537,
+	"userZ": 1,
+	"user": 172,
+	"lat": 39.470505,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071C51",
+	"traffic": 0,
+	"userWZ": -94,
+	"lng": 116.913166,
+	"userZ": 79,
+	"user": 250,
+	"lat": 38.866937,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071C62",
+	"traffic": 0,
+	"userWZ": -94,
+	"lng": 117.071438,
+	"userZ": 18,
+	"user": 189,
+	"lat": 38.959557,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071E80",
+	"traffic": 0,
+	"userWZ": -220,
+	"lng": 117.553572,
+	"userZ": 62,
+	"user": 233,
+	"lat": 38.74766,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071F00",
+	"traffic": 0,
+	"userWZ": -206,
+	"lng": 117.938125,
+	"userZ": 84,
+	"user": 255,
+	"lat": 39.218677,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071F41",
+	"traffic": 0,
+	"userWZ": -27,
+	"lng": 117.079803,
+	"userZ": 54,
+	"user": 225,
+	"lat": 38.962236,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071F42",
+	"traffic": 0,
+	"userWZ": -228,
+	"lng": 117.061912,
+	"userZ": 25,
+	"user": 196,
+	"lat": 38.970299,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400071F62",
+	"traffic": 0,
+	"userWZ": -103,
+	"lng": 117.133063,
+	"userZ": 8,
+	"user": 179,
+	"lat": 38.902626,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072042",
+	"traffic": 0,
+	"userWZ": -219,
+	"lng": 116.994982,
+	"userZ": 21,
+	"user": 192,
+	"lat": 38.898685,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072180",
+	"traffic": 0,
+	"userWZ": -67,
+	"lng": 116.977251,
+	"userZ": 256,
+	"user": 427,
+	"lat": 38.939088,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000721A1",
+	"traffic": 0,
+	"userWZ": -90,
+	"lng": 116.906188,
+	"userZ": 78,
+	"user": 249,
+	"lat": 38.706083,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072270",
+	"traffic": 0,
+	"userWZ": -105,
+	"lng": 117.126378,
+	"userZ": 6,
+	"user": 177,
+	"lat": 38.869741,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072292",
+	"traffic": 0,
+	"userWZ": -12,
+	"lng": 116.753242,
+	"userZ": 130,
+	"user": 301,
+	"lat": 38.824846,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000722D0",
+	"traffic": 0,
+	"userWZ": -16,
+	"lng": 116.917161,
+	"userZ": 49,
+	"user": 220,
+	"lat": 39.034405,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000723D0",
+	"traffic": 0,
+	"userWZ": -72,
+	"lng": 116.955358,
+	"userZ": 11,
+	"user": 182,
+	"lat": 39.023564,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072412",
+	"traffic": 0,
+	"userWZ": -122,
+	"lng": 117.048965,
+	"userZ": 86,
+	"user": 257,
+	"lat": 38.812228,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000724B0",
+	"traffic": 0,
+	"userWZ": -64,
+	"lng": 117.502543,
+	"userZ": 101,
+	"user": 272,
+	"lat": 38.752503,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000724C0",
+	"traffic": 0,
+	"userWZ": -80,
+	"lng": 117.392046,
+	"userZ": 22,
+	"user": 193,
+	"lat": 38.674169,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072531",
+	"traffic": 0,
+	"userWZ": -338,
+	"lng": 117.50034,
+	"userZ": 25,
+	"user": 196,
+	"lat": 38.692866,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000725B0",
+	"traffic": 0,
+	"userWZ": -423,
+	"lng": 117.484105,
+	"userZ": 68,
+	"user": 239,
+	"lat": 38.707466,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000725E1",
+	"traffic": 0,
+	"userWZ": -391,
+	"lng": 117.494467,
+	"userZ": 94,
+	"user": 265,
+	"lat": 38.719642,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072650",
+	"traffic": 0,
+	"userWZ": -51,
+	"lng": 117.405338,
+	"userZ": 262,
+	"user": 433,
+	"lat": 39.548711,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072731",
+	"traffic": 0,
+	"userWZ": -251,
+	"lng": 117.351876,
+	"userZ": 54,
+	"user": 225,
+	"lat": 39.528985,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072821",
+	"traffic": 0,
+	"userWZ": -100,
+	"lng": 117.437677,
+	"userZ": 7,
+	"user": 178,
+	"lat": 39.267602,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072861",
+	"traffic": 0,
+	"userWZ": -43,
+	"lng": 117.186641,
+	"userZ": 1,
+	"user": 172,
+	"lat": 39.508587,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000728A2",
+	"traffic": 0,
+	"userWZ": -75,
+	"lng": 116.97223,
+	"userZ": 27,
+	"user": 198,
+	"lat": 39.520349,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072902",
+	"traffic": 0,
+	"userWZ": -72,
+	"lng": 116.995952,
+	"userZ": 15,
+	"user": 186,
+	"lat": 39.483936,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000729D0",
+	"traffic": 0,
+	"userWZ": -110,
+	"lng": 117.029298,
+	"userZ": 1,
+	"user": 172,
+	"lat": 39.647412,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000729D2",
+	"traffic": 0,
+	"userWZ": -145,
+	"lng": 116.993023,
+	"userZ": 24,
+	"user": 195,
+	"lat": 39.642656,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072A92",
+	"traffic": 0,
+	"userWZ": -123,
+	"lng": 117.1857,
+	"userZ": 20,
+	"user": 191,
+	"lat": 39.373858,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072AC1",
+	"traffic": 0,
+	"userWZ": -72,
+	"lng": 117.220779,
+	"userZ": 2,
+	"user": 173,
+	"lat": 39.371112,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072C70",
+	"traffic": 0,
+	"userWZ": -80,
+	"lng": 116.852773,
+	"userZ": 71,
+	"user": 242,
+	"lat": 39.462228,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072E90",
+	"traffic": 0,
+	"userWZ": -165,
+	"lng": 117.272808,
+	"userZ": 66,
+	"user": 237,
+	"lat": 39.703302,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400072ED2",
+	"traffic": 0,
+	"userWZ": -277,
+	"lng": 117.172286,
+	"userZ": 6,
+	"user": 177,
+	"lat": 39.732752,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000731F2",
+	"traffic": 0,
+	"userWZ": -446,
+	"lng": 117.777867,
+	"userZ": 93,
+	"user": 264,
+	"lat": 39.24243,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073342",
+	"traffic": 0,
+	"userWZ": -236,
+	"lng": 117.831511,
+	"userZ": 104,
+	"user": 275,
+	"lat": 39.327156,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000733B2",
+	"traffic": 0,
+	"userWZ": -30,
+	"lng": 117.758917,
+	"userZ": 71,
+	"user": 242,
+	"lat": 39.361321,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000733C1",
+	"traffic": 0,
+	"userWZ": -47,
+	"lng": 117.809494,
+	"userZ": 24,
+	"user": 195,
+	"lat": 39.29909,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073410",
+	"traffic": 0,
+	"userWZ": -245,
+	"lng": 117.78486,
+	"userZ": 74,
+	"user": 245,
+	"lat": 39.330138,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073712",
+	"traffic": 0,
+	"userWZ": -155,
+	"lng": 117.297194,
+	"userZ": 82,
+	"user": 253,
+	"lat": 40.065966,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000737E1",
+	"traffic": 0,
+	"userWZ": -407,
+	"lng": 117.377921,
+	"userZ": 23,
+	"user": 194,
+	"lat": 40.037513,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073821",
+	"traffic": 0,
+	"userWZ": -182,
+	"lng": 117.315756,
+	"userZ": 13,
+	"user": 184,
+	"lat": 40.010881,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000738A1",
+	"traffic": 0,
+	"userWZ": -120,
+	"lng": 117.65973,
+	"userZ": 10,
+	"user": 181,
+	"lat": 39.078216,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000738E1",
+	"traffic": 0,
+	"userWZ": -52,
+	"lng": 117.424691,
+	"userZ": 16,
+	"user": 187,
+	"lat": 39.970043,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073970",
+	"traffic": 0,
+	"userWZ": -54,
+	"lng": 117.404513,
+	"userZ": 22,
+	"user": 193,
+	"lat": 39.917059,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073A40",
+	"traffic": 0,
+	"userWZ": -76,
+	"lng": 116.970823,
+	"userZ": 82,
+	"user": 253,
+	"lat": 39.158679,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073A80",
+	"traffic": 0,
+	"userWZ": -144,
+	"lng": 117.498638,
+	"userZ": 56,
+	"user": 227,
+	"lat": 38.718284,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073B30",
+	"traffic": 0,
+	"userWZ": -140,
+	"lng": 117.458,
+	"userZ": 17,
+	"user": 188,
+	"lat": 39.348511,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073B40",
+	"traffic": 0,
+	"userWZ": -528,
+	"lng": 117.770648,
+	"userZ": 49,
+	"user": 220,
+	"lat": 39.239238,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073B62",
+	"traffic": 0,
+	"userWZ": -50,
+	"lng": 117.807321,
+	"userZ": 16,
+	"user": 187,
+	"lat": 39.29857,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073BB1",
+	"traffic": 0,
+	"userWZ": -214,
+	"lng": 117.833,
+	"userZ": 117,
+	"user": 288,
+	"lat": 39.323089,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073C22",
+	"traffic": 0,
+	"userWZ": -314,
+	"lng": 117.495706,
+	"userZ": 62,
+	"user": 233,
+	"lat": 38.721256,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073DA1",
+	"traffic": 0,
+	"userWZ": -374,
+	"lng": 117.071565,
+	"userZ": 41,
+	"user": 212,
+	"lat": 38.854531,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073E22",
+	"traffic": 0,
+	"userWZ": -59,
+	"lng": 116.997657,
+	"userZ": 60,
+	"user": 231,
+	"lat": 38.925773,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073F80",
+	"traffic": 0,
+	"userWZ": -379,
+	"lng": 117.808727,
+	"userZ": 8,
+	"user": 179,
+	"lat": 39.011298,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073FA0",
+	"traffic": 0,
+	"userWZ": -250,
+	"lng": 117.72819,
+	"userZ": 27,
+	"user": 198,
+	"lat": 39.005853,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400073FB0",
+	"traffic": 0,
+	"userWZ": -162,
+	"lng": 117.74903,
+	"userZ": 62,
+	"user": 233,
+	"lat": 39.024704,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074052",
+	"traffic": 0,
+	"userWZ": -197,
+	"lng": 117.599781,
+	"userZ": 161,
+	"user": 332,
+	"lat": 39.028753,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074060",
+	"traffic": 0,
+	"userWZ": -145,
+	"lng": 117.594989,
+	"userZ": 93,
+	"user": 264,
+	"lat": 39.01537,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000740A0",
+	"traffic": 0,
+	"userWZ": -198,
+	"lng": 117.720533,
+	"userZ": 59,
+	"user": 230,
+	"lat": 39.060357,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074131",
+	"traffic": 0,
+	"userWZ": -314,
+	"lng": 117.668937,
+	"userZ": 15,
+	"user": 186,
+	"lat": 39.011805,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074190",
+	"traffic": 0,
+	"userWZ": -29,
+	"lng": 117.725553,
+	"userZ": 44,
+	"user": 215,
+	"lat": 39.074223,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074191",
+	"traffic": 0,
+	"userWZ": -55,
+	"lng": 117.72151,
+	"userZ": 157,
+	"user": 328,
+	"lat": 39.069277,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074192",
+	"traffic": 0,
+	"userWZ": -67,
+	"lng": 117.718881,
+	"userZ": 385,
+	"user": 556,
+	"lat": 39.074907,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000741F2",
+	"traffic": 0,
+	"userWZ": -641,
+	"lng": 117.675708,
+	"userZ": 329,
+	"user": 500,
+	"lat": 39.037929,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074220",
+	"traffic": 0,
+	"userWZ": -667,
+	"lng": 117.686761,
+	"userZ": 62,
+	"user": 233,
+	"lat": 39.06511,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000742D0",
+	"traffic": 0,
+	"userWZ": -568,
+	"lng": 117.679472,
+	"userZ": 226,
+	"user": 397,
+	"lat": 39.042606,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000743A1",
+	"traffic": 0,
+	"userWZ": -131,
+	"lng": 117.62056,
+	"userZ": 67,
+	"user": 238,
+	"lat": 39.032883,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074412",
+	"traffic": 0,
+	"userWZ": -621,
+	"lng": 117.733064,
+	"userZ": 383,
+	"user": 554,
+	"lat": 39.02723,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074460",
+	"traffic": 0,
+	"userWZ": -434,
+	"lng": 117.736386,
+	"userZ": 17,
+	"user": 188,
+	"lat": 39.069954,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D4471",
+	"traffic": 0,
+	"userWZ": -333,
+	"lng": 117.121288,
+	"userZ": 147,
+	"user": 318,
+	"lat": 39.144737,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D4472",
+	"traffic": 0,
+	"userWZ": -85,
+	"lng": 117.11756,
+	"userZ": 210,
+	"user": 381,
+	"lat": 39.144737,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074592",
+	"traffic": 0,
+	"userWZ": -128,
+	"lng": 117.610103,
+	"userZ": 132,
+	"user": 303,
+	"lat": 39.052217,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074622",
+	"traffic": 0,
+	"userWZ": -548,
+	"lng": 117.343989,
+	"userZ": 138,
+	"user": 309,
+	"lat": 39.023047,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D4671",
+	"traffic": 0,
+	"userWZ": -3709,
+	"lng": 117.183752,
+	"userZ": 111,
+	"user": 282,
+	"lat": 39.118439,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D46A0",
+	"traffic": 0,
+	"userWZ": -499,
+	"lng": 117.264904,
+	"userZ": 13,
+	"user": 184,
+	"lat": 39.084797,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074702",
+	"traffic": 0,
+	"userWZ": -64,
+	"lng": 117.398873,
+	"userZ": 312,
+	"user": 483,
+	"lat": 39.150467,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074710",
+	"traffic": 0,
+	"userWZ": -1087,
+	"lng": 117.39331,
+	"userZ": 190,
+	"user": 361,
+	"lat": 39.14448,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074741",
+	"traffic": 0,
+	"userWZ": -47,
+	"lng": 117.548091,
+	"userZ": 174,
+	"user": 345,
+	"lat": 39.090387,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074742",
+	"traffic": 0,
+	"userWZ": -636,
+	"lng": 117.54013,
+	"userZ": 46,
+	"user": 217,
+	"lat": 39.091481,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074810",
+	"traffic": 0,
+	"userWZ": -588,
+	"lng": 117.758447,
+	"userZ": 42,
+	"user": 213,
+	"lat": 39.014367,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074870",
+	"traffic": 0,
+	"userWZ": -218,
+	"lng": 117.718939,
+	"userZ": 44,
+	"user": 215,
+	"lat": 39.05026,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000748A0",
+	"traffic": 0,
+	"userWZ": -595,
+	"lng": 117.644365,
+	"userZ": 202,
+	"user": 373,
+	"lat": 38.998702,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074A00",
+	"traffic": 0,
+	"userWZ": -1132,
+	"lng": 117.705971,
+	"userZ": 80,
+	"user": 251,
+	"lat": 39.040013,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074A02",
+	"traffic": 0,
+	"userWZ": -1409,
+	"lng": 117.704093,
+	"userZ": 65,
+	"user": 236,
+	"lat": 39.036962,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D4A61",
+	"traffic": 0,
+	"userWZ": -1808,
+	"lng": 117.183348,
+	"userZ": 15,
+	"user": 186,
+	"lat": 39.122202,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D4A62",
+	"traffic": 0,
+	"userWZ": -804,
+	"lng": 117.182561,
+	"userZ": 5,
+	"user": 176,
+	"lat": 39.124492,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074A70",
+	"traffic": 0,
+	"userWZ": -623,
+	"lng": 117.734246,
+	"userZ": 29,
+	"user": 200,
+	"lat": 39.03918,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074AD2",
+	"traffic": 0,
+	"userWZ": -222,
+	"lng": 117.699149,
+	"userZ": 519,
+	"user": 690,
+	"lat": 39.030142,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074BA0",
+	"traffic": 0,
+	"userWZ": -733,
+	"lng": 117.699705,
+	"userZ": 4,
+	"user": 175,
+	"lat": 39.040098,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074BA1",
+	"traffic": 0,
+	"userWZ": -733,
+	"lng": 117.7,
+	"userZ": 59,
+	"user": 230,
+	"lat": 39.0401,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074DC2",
+	"traffic": 0,
+	"userWZ": -96,
+	"lng": 117.33477,
+	"userZ": 16,
+	"user": 187,
+	"lat": 39.011046,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074EA0",
+	"traffic": 0,
+	"userWZ": -27,
+	"lng": 117.665141,
+	"userZ": 45,
+	"user": 216,
+	"lat": 39.108839,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074F32",
+	"traffic": 0,
+	"userWZ": -27,
+	"lng": 117.73576,
+	"userZ": 10,
+	"user": 181,
+	"lat": 38.918536,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074F40",
+	"traffic": 0,
+	"userWZ": -137,
+	"lng": 117.704405,
+	"userZ": 120,
+	"user": 291,
+	"lat": 38.926387,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074F41",
+	"traffic": 0,
+	"userWZ": -3,
+	"lng": 117.704753,
+	"userZ": 17,
+	"user": 188,
+	"lat": 38.916095,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074F70",
+	"traffic": 0,
+	"userWZ": -41,
+	"lng": 117.760053,
+	"userZ": 60,
+	"user": 231,
+	"lat": 39.13024,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400074F90",
+	"traffic": 0,
+	"userWZ": -477,
+	"lng": 117.734738,
+	"userZ": 110,
+	"user": 281,
+	"lat": 39.019537,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000750B1",
+	"traffic": 0,
+	"userWZ": -401,
+	"lng": 117.74426,
+	"userZ": 85,
+	"user": 256,
+	"lat": 39.037093,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000750B2",
+	"traffic": 0,
+	"userWZ": -54,
+	"lng": 117.739693,
+	"userZ": 44,
+	"user": 215,
+	"lat": 39.044736,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000751E1",
+	"traffic": 0,
+	"userWZ": -349,
+	"lng": 117.37424,
+	"userZ": 31,
+	"user": 202,
+	"lat": 38.868548,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075220",
+	"traffic": 0,
+	"userWZ": -142,
+	"lng": 117.390436,
+	"userZ": 33,
+	"user": 204,
+	"lat": 38.86299,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075222",
+	"traffic": 0,
+	"userWZ": -159,
+	"lng": 117.368042,
+	"userZ": 123,
+	"user": 294,
+	"lat": 38.868982,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075240",
+	"traffic": 0,
+	"userWZ": -70,
+	"lng": 117.482164,
+	"userZ": 42,
+	"user": 213,
+	"lat": 38.953206,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075241",
+	"traffic": 0,
+	"userWZ": -77,
+	"lng": 117.470537,
+	"userZ": 6,
+	"user": 177,
+	"lat": 38.939764,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075311",
+	"traffic": 0,
+	"userWZ": -19,
+	"lng": 117.447003,
+	"userZ": 247,
+	"user": 418,
+	"lat": 38.829443,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075312",
+	"traffic": 0,
+	"userWZ": -291,
+	"lng": 117.440857,
+	"userZ": 152,
+	"user": 323,
+	"lat": 38.833032,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000753F1",
+	"traffic": 0,
+	"userWZ": -158,
+	"lng": 117.482187,
+	"userZ": 12,
+	"user": 183,
+	"lat": 38.986994,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075430",
+	"traffic": 0,
+	"userWZ": -682,
+	"lng": 117.407767,
+	"userZ": 98,
+	"user": 269,
+	"lat": 38.987812,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075440",
+	"traffic": 0,
+	"userWZ": -378,
+	"lng": 117.391359,
+	"userZ": 34,
+	"user": 205,
+	"lat": 38.98521,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075452",
+	"traffic": 0,
+	"userWZ": -559,
+	"lng": 117.358113,
+	"userZ": 145,
+	"user": 316,
+	"lat": 39.019241,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075460",
+	"traffic": 0,
+	"userWZ": -6,
+	"lng": 117.44833,
+	"userZ": 56,
+	"user": 227,
+	"lat": 38.982799,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075462",
+	"traffic": 0,
+	"userWZ": -213,
+	"lng": 117.440324,
+	"userZ": 110,
+	"user": 281,
+	"lat": 38.971741,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000754F2",
+	"traffic": 0,
+	"userWZ": -210,
+	"lng": 117.355163,
+	"userZ": 170,
+	"user": 341,
+	"lat": 38.96533,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075561",
+	"traffic": 0,
+	"userWZ": -559,
+	"lng": 117.360819,
+	"userZ": 37,
+	"user": 208,
+	"lat": 39.080585,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075562",
+	"traffic": 0,
+	"userWZ": -867,
+	"lng": 117.360174,
+	"userZ": 13,
+	"user": 184,
+	"lat": 39.08633,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075571",
+	"traffic": 0,
+	"userWZ": -94,
+	"lng": 117.458261,
+	"userZ": 28,
+	"user": 199,
+	"lat": 39.066542,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075572",
+	"traffic": 0,
+	"userWZ": -37,
+	"lng": 117.449167,
+	"userZ": 37,
+	"user": 208,
+	"lat": 39.076004,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075592",
+	"traffic": 0,
+	"userWZ": -1888,
+	"lng": 117.378903,
+	"userZ": 4,
+	"user": 175,
+	"lat": 39.153407,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000755E1",
+	"traffic": 0,
+	"userWZ": -469,
+	"lng": 117.380041,
+	"userZ": 141,
+	"user": 312,
+	"lat": 39.069924,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000755E2",
+	"traffic": 0,
+	"userWZ": -548,
+	"lng": 117.375376,
+	"userZ": 20,
+	"user": 191,
+	"lat": 39.07678,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075602",
+	"traffic": 0,
+	"userWZ": -610,
+	"lng": 117.397266,
+	"userZ": 4,
+	"user": 175,
+	"lat": 39.062767,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000756A2",
+	"traffic": 0,
+	"userWZ": -295,
+	"lng": 117.333173,
+	"userZ": 162,
+	"user": 333,
+	"lat": 39.061879,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000756B2",
+	"traffic": 0,
+	"userWZ": -412,
+	"lng": 117.350924,
+	"userZ": 217,
+	"user": 388,
+	"lat": 39.078692,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000756C0",
+	"traffic": 0,
+	"userWZ": -1034,
+	"lng": 117.488074,
+	"userZ": 1,
+	"user": 172,
+	"lat": 39.038976,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000756E2",
+	"traffic": 0,
+	"userWZ": -1222,
+	"lng": 117.385163,
+	"userZ": 193,
+	"user": 364,
+	"lat": 39.168718,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075700",
+	"traffic": 0,
+	"userWZ": -29,
+	"lng": 117.448666,
+	"userZ": 12,
+	"user": 183,
+	"lat": 39.069311,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075710",
+	"traffic": 0,
+	"userWZ": -604,
+	"lng": 117.368776,
+	"userZ": 61,
+	"user": 232,
+	"lat": 39.158489,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000757D0",
+	"traffic": 0,
+	"userWZ": -173,
+	"lng": 117.550277,
+	"userZ": 1,
+	"user": 172,
+	"lat": 38.999896,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075822",
+	"traffic": 0,
+	"userWZ": -223,
+	"lng": 117.307864,
+	"userZ": 52,
+	"user": 223,
+	"lat": 39.10771,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075862",
+	"traffic": 0,
+	"userWZ": -432,
+	"lng": 117.339364,
+	"userZ": 78,
+	"user": 249,
+	"lat": 39.176055,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D5910",
+	"traffic": 0,
+	"userWZ": -1159,
+	"lng": 117.228358,
+	"userZ": 38,
+	"user": 209,
+	"lat": 39.153427,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D5911",
+	"traffic": 0,
+	"userWZ": -1037,
+	"lng": 117.225536,
+	"userZ": 53,
+	"user": 224,
+	"lat": 39.15124,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D5912",
+	"traffic": 0,
+	"userWZ": -1096,
+	"lng": 117.224837,
+	"userZ": 184,
+	"user": 355,
+	"lat": 39.153693,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075940",
+	"traffic": 0,
+	"userWZ": -103,
+	"lng": 117.315098,
+	"userZ": 46,
+	"user": 217,
+	"lat": 39.049676,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075992",
+	"traffic": 0,
+	"userWZ": -23,
+	"lng": 117.277722,
+	"userZ": 91,
+	"user": 262,
+	"lat": 38.858064,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000759A2",
+	"traffic": 0,
+	"userWZ": -593,
+	"lng": 117.307137,
+	"userZ": 45,
+	"user": 216,
+	"lat": 39.09951,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000759C1",
+	"traffic": 0,
+	"userWZ": -72,
+	"lng": 117.529835,
+	"userZ": 165,
+	"user": 336,
+	"lat": 39.07075,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D59E0",
+	"traffic": 0,
+	"userWZ": -548,
+	"lng": 117.282088,
+	"userZ": 385,
+	"user": 556,
+	"lat": 39.08744,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000759F0",
+	"traffic": 0,
+	"userWZ": -395,
+	"lng": 117.311304,
+	"userZ": 150,
+	"user": 321,
+	"lat": 39.09104,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075A02",
+	"traffic": 0,
+	"userWZ": -639,
+	"lng": 117.396389,
+	"userZ": 35,
+	"user": 206,
+	"lat": 38.989096,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075A50",
+	"traffic": 0,
+	"userWZ": -1048,
+	"lng": 117.496924,
+	"userZ": 52,
+	"user": 223,
+	"lat": 39.045966,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075B10",
+	"traffic": 0,
+	"userWZ": -83,
+	"lng": 117.3114,
+	"userZ": 65,
+	"user": 236,
+	"lat": 38.91345,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075B32",
+	"traffic": 0,
+	"userWZ": -45,
+	"lng": 117.386514,
+	"userZ": 42,
+	"user": 213,
+	"lat": 38.872139,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075C50",
+	"traffic": 0,
+	"userWZ": -1628,
+	"lng": 117.412049,
+	"userZ": 7,
+	"user": 178,
+	"lat": 39.121136,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075D11",
+	"traffic": 0,
+	"userWZ": -544,
+	"lng": 117.326123,
+	"userZ": 90,
+	"user": 261,
+	"lat": 39.085383,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075DC2",
+	"traffic": 0,
+	"userWZ": -212,
+	"lng": 117.391096,
+	"userZ": 3,
+	"user": 174,
+	"lat": 38.980339,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075E11",
+	"traffic": 0,
+	"userWZ": -443,
+	"lng": 117.38043,
+	"userZ": 158,
+	"user": 329,
+	"lat": 39.170935,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075E60",
+	"traffic": 0,
+	"userWZ": -586,
+	"lng": 117.505075,
+	"userZ": 38,
+	"user": 209,
+	"lat": 39.038904,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075EF2",
+	"traffic": 0,
+	"userWZ": -1611,
+	"lng": 117.412,
+	"userZ": 39,
+	"user": 210,
+	"lat": 39.123086,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075F80",
+	"traffic": 0,
+	"userWZ": -70,
+	"lng": 117.331902,
+	"userZ": 129,
+	"user": 300,
+	"lat": 39.081279,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075F81",
+	"traffic": 0,
+	"userWZ": -216,
+	"lng": 117.32637,
+	"userZ": 6,
+	"user": 177,
+	"lat": 39.076404,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075F82",
+	"traffic": 0,
+	"userWZ": -707,
+	"lng": 117.323632,
+	"userZ": 37,
+	"user": 208,
+	"lat": 39.080942,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075FD2",
+	"traffic": 0,
+	"userWZ": -126,
+	"lng": 117.311517,
+	"userZ": 41,
+	"user": 212,
+	"lat": 39.082669,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400075FE1",
+	"traffic": 0,
+	"userWZ": -1127,
+	"lng": 117.346825,
+	"userZ": 111,
+	"user": 282,
+	"lat": 39.132847,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400076042",
+	"traffic": 0,
+	"userWZ": -63,
+	"lng": 117.333954,
+	"userZ": 3,
+	"user": 174,
+	"lat": 38.94976,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000760F0",
+	"traffic": 0,
+	"userWZ": -135,
+	"lng": 117.452581,
+	"userZ": 94,
+	"user": 265,
+	"lat": 38.994916,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000761A0",
+	"traffic": 0,
+	"userWZ": -262,
+	"lng": 117.367716,
+	"userZ": 82,
+	"user": 253,
+	"lat": 39.026962,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000761A2",
+	"traffic": 0,
+	"userWZ": -498,
+	"lng": 117.36206,
+	"userZ": 206,
+	"user": 377,
+	"lat": 39.021934,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000761C2",
+	"traffic": 0,
+	"userWZ": -918,
+	"lng": 117.349019,
+	"userZ": 57,
+	"user": 228,
+	"lat": 39.020328,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000761E0",
+	"traffic": 0,
+	"userWZ": -773,
+	"lng": 117.359089,
+	"userZ": 119,
+	"user": 290,
+	"lat": 39.003053,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400076240",
+	"traffic": 0,
+	"userWZ": -738,
+	"lng": 117.364583,
+	"userZ": 167,
+	"user": 338,
+	"lat": 39.086643,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400076242",
+	"traffic": 0,
+	"userWZ": -296,
+	"lng": 117.348295,
+	"userZ": 36,
+	"user": 207,
+	"lat": 39.081123,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400076280",
+	"traffic": 0,
+	"userWZ": -431,
+	"lng": 117.412276,
+	"userZ": 11,
+	"user": 182,
+	"lat": 38.844406,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400076302",
+	"traffic": 0,
+	"userWZ": -433,
+	"lng": 117.356239,
+	"userZ": 37,
+	"user": 208,
+	"lat": 39.168871,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400076361",
+	"traffic": 0,
+	"userWZ": -221,
+	"lng": 117.479,
+	"userZ": 136,
+	"user": 307,
+	"lat": 38.980388,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000763F0",
+	"traffic": 0,
+	"userWZ": -548,
+	"lng": 117.395206,
+	"userZ": 45,
+	"user": 216,
+	"lat": 39.067021,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6441",
+	"traffic": 0,
+	"userWZ": -100,
+	"lng": 117.024684,
+	"userZ": 93,
+	"user": 264,
+	"lat": 39.237484,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400076492",
+	"traffic": 0,
+	"userWZ": -9,
+	"lng": 117.404176,
+	"userZ": 14,
+	"user": 185,
+	"lat": 39.214595,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000764A1",
+	"traffic": 0,
+	"userWZ": -11,
+	"lng": 117.32833,
+	"userZ": 151,
+	"user": 322,
+	"lat": 39.214637,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6580",
+	"traffic": 0,
+	"userWZ": -745,
+	"lng": 117.260664,
+	"userZ": 86,
+	"user": 257,
+	"lat": 39.106782,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6582",
+	"traffic": 0,
+	"userWZ": -460,
+	"lng": 117.256792,
+	"userZ": 23,
+	"user": 194,
+	"lat": 39.10665,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6590",
+	"traffic": 0,
+	"userWZ": -995,
+	"lng": 117.25229,
+	"userZ": 205,
+	"user": 376,
+	"lat": 39.105179,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D65A0",
+	"traffic": 0,
+	"userWZ": -43,
+	"lng": 117.245906,
+	"userZ": 86,
+	"user": 257,
+	"lat": 39.130157,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D65F2",
+	"traffic": 0,
+	"userWZ": -214,
+	"lng": 117.246249,
+	"userZ": 21,
+	"user": 192,
+	"lat": 39.113743,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6601",
+	"traffic": 0,
+	"userWZ": -412,
+	"lng": 117.265412,
+	"userZ": 30,
+	"user": 201,
+	"lat": 39.112497,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6602",
+	"traffic": 0,
+	"userWZ": -176,
+	"lng": 117.266205,
+	"userZ": 107,
+	"user": 278,
+	"lat": 39.115846,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6662",
+	"traffic": 0,
+	"userWZ": -1079,
+	"lng": 117.262453,
+	"userZ": 98,
+	"user": 269,
+	"lat": 39.154107,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6692",
+	"traffic": 0,
+	"userWZ": -306,
+	"lng": 117.221423,
+	"userZ": 3,
+	"user": 174,
+	"lat": 39.139541,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D66C1",
+	"traffic": 0,
+	"userWZ": -431,
+	"lng": 117.237863,
+	"userZ": 29,
+	"user": 200,
+	"lat": 39.169878,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6770",
+	"traffic": 0,
+	"userWZ": -1656,
+	"lng": 117.237605,
+	"userZ": 4,
+	"user": 175,
+	"lat": 39.152506,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000767D1",
+	"traffic": 0,
+	"userWZ": -55,
+	"lng": 117.304658,
+	"userZ": 61,
+	"user": 232,
+	"lat": 39.208284,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6821",
+	"traffic": 0,
+	"userWZ": -1011,
+	"lng": 117.228863,
+	"userZ": 16,
+	"user": 187,
+	"lat": 39.147815,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6822",
+	"traffic": 0,
+	"userWZ": -1185,
+	"lng": 117.227822,
+	"userZ": 35,
+	"user": 206,
+	"lat": 39.151171,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6832",
+	"traffic": 0,
+	"userWZ": -192,
+	"lng": 117.243921,
+	"userZ": 92,
+	"user": 263,
+	"lat": 39.164926,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400076890",
+	"traffic": 0,
+	"userWZ": -193,
+	"lng": 117.358415,
+	"userZ": 95,
+	"user": 266,
+	"lat": 39.25829,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400076891",
+	"traffic": 0,
+	"userWZ": -173,
+	"lng": 117.342777,
+	"userZ": 10,
+	"user": 181,
+	"lat": 39.243989,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400076892",
+	"traffic": 0,
+	"userWZ": -17,
+	"lng": 117.337583,
+	"userZ": 119,
+	"user": 290,
+	"lat": 39.25508,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000768A0",
+	"traffic": 0,
+	"userWZ": -121,
+	"lng": 117.375036,
+	"userZ": 17,
+	"user": 188,
+	"lat": 39.277135,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6902",
+	"traffic": 0,
+	"userWZ": -80,
+	"lng": 117.125334,
+	"userZ": 306,
+	"user": 477,
+	"lat": 39.221931,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6970",
+	"traffic": 0,
+	"userWZ": -244,
+	"lng": 117.177862,
+	"userZ": 282,
+	"user": 453,
+	"lat": 39.202136,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D69C1",
+	"traffic": 0,
+	"userWZ": -558,
+	"lng": 117.115592,
+	"userZ": 69,
+	"user": 240,
+	"lat": 39.233974,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6AE1",
+	"traffic": 0,
+	"userWZ": -3,
+	"lng": 117.188814,
+	"userZ": 61,
+	"user": 232,
+	"lat": 39.241822,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6B30",
+	"traffic": 0,
+	"userWZ": -113,
+	"lng": 117.09829,
+	"userZ": 19,
+	"user": 190,
+	"lat": 39.231676,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6B32",
+	"traffic": 0,
+	"userWZ": -249,
+	"lng": 117.084874,
+	"userZ": 11,
+	"user": 182,
+	"lat": 39.230244,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6B51",
+	"traffic": 0,
+	"userWZ": -430,
+	"lng": 117.124883,
+	"userZ": 79,
+	"user": 250,
+	"lat": 39.230062,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6B70",
+	"traffic": 0,
+	"userWZ": -24,
+	"lng": 117.138386,
+	"userZ": 14,
+	"user": 185,
+	"lat": 39.18653,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6C60",
+	"traffic": 0,
+	"userWZ": -1199,
+	"lng": 117.235778,
+	"userZ": 26,
+	"user": 197,
+	"lat": 39.129211,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6E30",
+	"traffic": 0,
+	"userWZ": -998,
+	"lng": 117.148867,
+	"userZ": 5,
+	"user": 176,
+	"lat": 39.184629,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6E32",
+	"traffic": 0,
+	"userWZ": -798,
+	"lng": 117.143846,
+	"userZ": 67,
+	"user": 238,
+	"lat": 39.18439,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6EC2",
+	"traffic": 0,
+	"userWZ": -514,
+	"lng": 117.151771,
+	"userZ": 12,
+	"user": 183,
+	"lat": 39.170962,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6ED0",
+	"traffic": 0,
+	"userWZ": -1987,
+	"lng": 117.15278,
+	"userZ": 81,
+	"user": 252,
+	"lat": 39.185013,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6ED2",
+	"traffic": 0,
+	"userWZ": -1419,
+	"lng": 117.150003,
+	"userZ": 63,
+	"user": 234,
+	"lat": 39.180972,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6F52",
+	"traffic": 0,
+	"userWZ": -430,
+	"lng": 117.125972,
+	"userZ": 60,
+	"user": 231,
+	"lat": 39.226179,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6FC1",
+	"traffic": 0,
+	"userWZ": -62,
+	"lng": 117.081776,
+	"userZ": 121,
+	"user": 292,
+	"lat": 39.188952,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6FF0",
+	"traffic": 0,
+	"userWZ": -502,
+	"lng": 117.22467,
+	"userZ": 169,
+	"user": 340,
+	"lat": 39.133801,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D6FF1",
+	"traffic": 0,
+	"userWZ": -303,
+	"lng": 117.222831,
+	"userZ": 47,
+	"user": 218,
+	"lat": 39.131099,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400077090",
+	"traffic": 0,
+	"userWZ": -502,
+	"lng": 117.29169,
+	"userZ": 93,
+	"user": 264,
+	"lat": 40.014597,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400077150",
+	"traffic": 0,
+	"userWZ": -230,
+	"lng": 117.40136,
+	"userZ": 268,
+	"user": 439,
+	"lat": 40.008173,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000771A1",
+	"traffic": 0,
+	"userWZ": -222,
+	"lng": 117.467148,
+	"userZ": 11,
+	"user": 182,
+	"lat": 40.047055,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "367400077330",
+	"traffic": 0,
+	"userWZ": -161,
+	"lng": 116.896458,
+	"userZ": 27,
+	"user": 198,
+	"lat": 39.236806,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7362",
+	"traffic": 0,
+	"userWZ": -377,
+	"lng": 117.270842,
+	"userZ": 22,
+	"user": 193,
+	"lat": 39.104936,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D73B1",
+	"traffic": 0,
+	"userWZ": -218,
+	"lng": 117.269651,
+	"userZ": 74,
+	"user": 245,
+	"lat": 39.158898,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D73B2",
+	"traffic": 0,
+	"userWZ": -765,
+	"lng": 117.264714,
+	"userZ": 24,
+	"user": 195,
+	"lat": 39.158883,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D73C1",
+	"traffic": 0,
+	"userWZ": -341,
+	"lng": 117.26186,
+	"userZ": 48,
+	"user": 219,
+	"lat": 39.142044,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D73E1",
+	"traffic": 0,
+	"userWZ": -57,
+	"lng": 117.257921,
+	"userZ": 44,
+	"user": 215,
+	"lat": 39.127833,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7472",
+	"traffic": 0,
+	"userWZ": -193,
+	"lng": 117.151698,
+	"userZ": 16,
+	"user": 187,
+	"lat": 39.164679,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7601",
+	"traffic": 0,
+	"userWZ": -994,
+	"lng": 117.241036,
+	"userZ": 44,
+	"user": 215,
+	"lat": 39.161194,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D77B0",
+	"traffic": 0,
+	"userWZ": -712,
+	"lng": 116.994282,
+	"userZ": 100,
+	"user": 271,
+	"lat": 39.116257,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D77F1",
+	"traffic": 0,
+	"userWZ": -444,
+	"lng": 117.032015,
+	"userZ": 85,
+	"user": 256,
+	"lat": 39.126368,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7872",
+	"traffic": 0,
+	"userWZ": -458,
+	"lng": 117.083022,
+	"userZ": 11,
+	"user": 182,
+	"lat": 39.037544,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7882",
+	"traffic": 0,
+	"userWZ": -123,
+	"lng": 117.064305,
+	"userZ": 16,
+	"user": 187,
+	"lat": 39.01032,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7890",
+	"traffic": 0,
+	"userWZ": -181,
+	"lng": 117.038598,
+	"userZ": 41,
+	"user": 212,
+	"lat": 39.121836,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7891",
+	"traffic": 0,
+	"userWZ": -230,
+	"lng": 117.036574,
+	"userZ": 2,
+	"user": 173,
+	"lat": 39.113225,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D78C1",
+	"traffic": 0,
+	"userWZ": -1623,
+	"lng": 117.118568,
+	"userZ": 48,
+	"user": 219,
+	"lat": 39.080924,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7912",
+	"traffic": 0,
+	"userWZ": -123,
+	"lng": 117.000033,
+	"userZ": 81,
+	"user": 252,
+	"lat": 39.136355,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7960",
+	"traffic": 0,
+	"userWZ": -1310,
+	"lng": 117.118991,
+	"userZ": 133,
+	"user": 304,
+	"lat": 39.098499,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7962",
+	"traffic": 0,
+	"userWZ": -1380,
+	"lng": 117.114221,
+	"userZ": 979,
+	"user": 1150,
+	"lat": 39.098824,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7970",
+	"traffic": 0,
+	"userWZ": -865,
+	"lng": 117.118274,
+	"userZ": 51,
+	"user": 222,
+	"lat": 39.086066,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7972",
+	"traffic": 0,
+	"userWZ": -1507,
+	"lng": 117.115101,
+	"userZ": 9,
+	"user": 180,
+	"lat": 39.086966,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7A10",
+	"traffic": 0,
+	"userWZ": -46,
+	"lng": 117.080467,
+	"userZ": 219,
+	"user": 390,
+	"lat": 39.172744,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7A32",
+	"traffic": 0,
+	"userWZ": -390,
+	"lng": 117.118274,
+	"userZ": 178,
+	"user": 349,
+	"lat": 39.123175,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7A61",
+	"traffic": 0,
+	"userWZ": -500,
+	"lng": 117.12056,
+	"userZ": 71,
+	"user": 242,
+	"lat": 39.134813,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7AA0",
+	"traffic": 0,
+	"userWZ": -763,
+	"lng": 117.04221,
+	"userZ": 1,
+	"user": 172,
+	"lat": 39.050766,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7AA2",
+	"traffic": 0,
+	"userWZ": -482,
+	"lng": 117.040142,
+	"userZ": 112,
+	"user": 283,
+	"lat": 39.048159,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7B72",
+	"traffic": 0,
+	"userWZ": -811,
+	"lng": 117.271699,
+	"userZ": 8,
+	"user": 179,
+	"lat": 39.069585,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7BA0",
+	"traffic": 0,
+	"userWZ": -1976,
+	"lng": 117.243917,
+	"userZ": 65,
+	"user": 236,
+	"lat": 39.057846,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7C22",
+	"traffic": 0,
+	"userWZ": -110,
+	"lng": 117.186418,
+	"userZ": 60,
+	"user": 231,
+	"lat": 39.027165,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7C72",
+	"traffic": 0,
+	"userWZ": -199,
+	"lng": 117.254567,
+	"userZ": 28,
+	"user": 199,
+	"lat": 39.065519,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7CC2",
+	"traffic": 0,
+	"userWZ": -1073,
+	"lng": 117.251724,
+	"userZ": 88,
+	"user": 259,
+	"lat": 39.048355,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7D00",
+	"traffic": 0,
+	"userWZ": -1916,
+	"lng": 117.230915,
+	"userZ": 32,
+	"user": 203,
+	"lat": 39.064509,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7D02",
+	"traffic": 0,
+	"userWZ": -742,
+	"lng": 117.227858,
+	"userZ": 259,
+	"user": 430,
+	"lat": 39.06386,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D7D20",
+	"traffic": 0,
+	"userWZ": -254,
+	"lng": 117.274228,
+	"userZ": 107,
+	"user": 278,
+	"lat": 39.043272,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D80C0",
+	"traffic": 0,
+	"userWZ": -325,
+	"lng": 117.081336,
+	"userZ": 4,
+	"user": 175,
+	"lat": 39.152842,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D81A1",
+	"traffic": 0,
+	"userWZ": -348,
+	"lng": 117.120217,
+	"userZ": 6,
+	"user": 177,
+	"lat": 39.085187,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D81B1",
+	"traffic": 0,
+	"userWZ": -131,
+	"lng": 117.095795,
+	"userZ": 215,
+	"user": 386,
+	"lat": 39.158771,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D81E2",
+	"traffic": 0,
+	"userWZ": -667,
+	"lng": 117.224517,
+	"userZ": 162,
+	"user": 333,
+	"lat": 39.069192,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8452",
+	"traffic": 0,
+	"userWZ": -675,
+	"lng": 117.124638,
+	"userZ": 67,
+	"user": 238,
+	"lat": 39.089846,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D85D2",
+	"traffic": 0,
+	"userWZ": -487,
+	"lng": 117.278432,
+	"userZ": 88,
+	"user": 259,
+	"lat": 39.06705,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D85F1",
+	"traffic": 0,
+	"userWZ": -1318,
+	"lng": 117.252484,
+	"userZ": 91,
+	"user": 262,
+	"lat": 39.057528,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8670",
+	"traffic": 0,
+	"userWZ": -875,
+	"lng": 117.076366,
+	"userZ": 91,
+	"user": 262,
+	"lat": 39.080634,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8671",
+	"traffic": 0,
+	"userWZ": -537,
+	"lng": 117.066834,
+	"userZ": 60,
+	"user": 231,
+	"lat": 39.071774,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8830",
+	"traffic": 0,
+	"userWZ": -159,
+	"lng": 117.19368,
+	"userZ": 173,
+	"user": 344,
+	"lat": 38.993771,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8860",
+	"traffic": 0,
+	"userWZ": -232,
+	"lng": 117.096249,
+	"userZ": 7,
+	"user": 178,
+	"lat": 39.147845,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8920",
+	"traffic": 0,
+	"userWZ": -366,
+	"lng": 117.271681,
+	"userZ": 215,
+	"user": 386,
+	"lat": 39.065371,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D89A0",
+	"traffic": 0,
+	"userWZ": -2182,
+	"lng": 117.193286,
+	"userZ": 91,
+	"user": 262,
+	"lat": 39.102859,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D89A1",
+	"traffic": 0,
+	"userWZ": -1696,
+	"lng": 117.192046,
+	"userZ": 92,
+	"user": 263,
+	"lat": 39.100458,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D89B1",
+	"traffic": 0,
+	"userWZ": -620,
+	"lng": 117.18306,
+	"userZ": 122,
+	"user": 293,
+	"lat": 39.10559,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8A30",
+	"traffic": 0,
+	"userWZ": -1861,
+	"lng": 117.203219,
+	"userZ": 117,
+	"user": 288,
+	"lat": 39.105581,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8A32",
+	"traffic": 0,
+	"userWZ": -109,
+	"lng": 117.199865,
+	"userZ": 172,
+	"user": 343,
+	"lat": 39.105833,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8B20",
+	"traffic": 0,
+	"userWZ": -754,
+	"lng": 117.212248,
+	"userZ": 184,
+	"user": 355,
+	"lat": 39.111055,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8B22",
+	"traffic": 0,
+	"userWZ": -836,
+	"lng": 117.207143,
+	"userZ": 22,
+	"user": 193,
+	"lat": 39.110173,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8B72",
+	"traffic": 0,
+	"userWZ": -629,
+	"lng": 117.206258,
+	"userZ": 425,
+	"user": 596,
+	"lat": 39.102567,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8C90",
+	"traffic": 0,
+	"userWZ": -3576,
+	"lng": 117.190813,
+	"userZ": 59,
+	"user": 230,
+	"lat": 39.112091,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8CA1",
+	"traffic": 0,
+	"userWZ": -1884,
+	"lng": 117.180619,
+	"userZ": 21,
+	"user": 192,
+	"lat": 39.119278,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8CB1",
+	"traffic": 0,
+	"userWZ": -1090,
+	"lng": 117.188723,
+	"userZ": 75,
+	"user": 246,
+	"lat": 39.124414,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8CB2",
+	"traffic": 0,
+	"userWZ": -2482,
+	"lng": 117.185577,
+	"userZ": 73,
+	"user": 244,
+	"lat": 39.124414,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8D00",
+	"traffic": 0,
+	"userWZ": -1541,
+	"lng": 117.180949,
+	"userZ": 138,
+	"user": 309,
+	"lat": 39.116001,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8D01",
+	"traffic": 0,
+	"userWZ": -1626,
+	"lng": 117.180676,
+	"userZ": 5,
+	"user": 176,
+	"lat": 39.11357,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8D20",
+	"traffic": 0,
+	"userWZ": -3052,
+	"lng": 117.187052,
+	"userZ": 90,
+	"user": 261,
+	"lat": 39.11479,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8D22",
+	"traffic": 0,
+	"userWZ": -3434,
+	"lng": 117.183675,
+	"userZ": 147,
+	"user": 318,
+	"lat": 39.115748,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8D41",
+	"traffic": 0,
+	"userWZ": -210,
+	"lng": 117.197153,
+	"userZ": 260,
+	"user": 431,
+	"lat": 39.117481,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8DA0",
+	"traffic": 0,
+	"userWZ": -335,
+	"lng": 117.177604,
+	"userZ": 124,
+	"user": 295,
+	"lat": 39.133593,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8E90",
+	"traffic": 0,
+	"userWZ": -1648,
+	"lng": 117.174194,
+	"userZ": 6,
+	"user": 177,
+	"lat": 39.12793,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8E92",
+	"traffic": 0,
+	"userWZ": -233,
+	"lng": 117.171656,
+	"userZ": 191,
+	"user": 362,
+	"lat": 39.126789,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8EE1",
+	"traffic": 0,
+	"userWZ": -352,
+	"lng": 117.178924,
+	"userZ": 254,
+	"user": 425,
+	"lat": 39.126948,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D8EE2",
+	"traffic": 0,
+	"userWZ": -488,
+	"lng": 117.178136,
+	"userZ": 119,
+	"user": 290,
+	"lat": 39.129238,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9040",
+	"traffic": 0,
+	"userWZ": -859,
+	"lng": 117.180121,
+	"userZ": 35,
+	"user": 206,
+	"lat": 39.125162,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9042",
+	"traffic": 0,
+	"userWZ": -1586,
+	"lng": 117.178022,
+	"userZ": 35,
+	"user": 206,
+	"lat": 39.12379,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9071",
+	"traffic": 0,
+	"userWZ": -1256,
+	"lng": 117.19225,
+	"userZ": 594,
+	"user": 765,
+	"lat": 39.097585,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9072",
+	"traffic": 0,
+	"userWZ": -2651,
+	"lng": 117.190611,
+	"userZ": 91,
+	"user": 262,
+	"lat": 39.099797,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9621",
+	"traffic": 0,
+	"userWZ": -1780,
+	"lng": 117.181145,
+	"userZ": 20,
+	"user": 191,
+	"lat": 39.118828,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D96F2",
+	"traffic": 0,
+	"userWZ": -294,
+	"lng": 117.198719,
+	"userZ": 168,
+	"user": 339,
+	"lat": 39.117861,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9700",
+	"traffic": 0,
+	"userWZ": -2428,
+	"lng": 117.1827,
+	"userZ": 37,
+	"user": 208,
+	"lat": 39.11601,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D97B2",
+	"traffic": 0,
+	"userWZ": -2495,
+	"lng": 117.187533,
+	"userZ": 90,
+	"user": 261,
+	"lat": 39.12016,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D98B0",
+	"traffic": 0,
+	"userWZ": -1573,
+	"lng": 117.205426,
+	"userZ": 49,
+	"user": 220,
+	"lat": 39.10748,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D98B1",
+	"traffic": 0,
+	"userWZ": -2083,
+	"lng": 117.205124,
+	"userZ": 139,
+	"user": 310,
+	"lat": 39.10479,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D98B2",
+	"traffic": 0,
+	"userWZ": -2070,
+	"lng": 117.202965,
+	"userZ": 322,
+	"user": 493,
+	"lat": 39.106617,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9930",
+	"traffic": 0,
+	"userWZ": -846,
+	"lng": 117.19315,
+	"userZ": 387,
+	"user": 558,
+	"lat": 39.11683,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9931",
+	"traffic": 0,
+	"userWZ": -846,
+	"lng": 117.19315,
+	"userZ": 134,
+	"user": 305,
+	"lat": 39.11683,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9970",
+	"traffic": 0,
+	"userWZ": -890,
+	"lng": 117.215366,
+	"userZ": 464,
+	"user": 635,
+	"lat": 39.117544,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9B11",
+	"traffic": 0,
+	"userWZ": -652,
+	"lng": 117.170224,
+	"userZ": 42,
+	"user": 213,
+	"lat": 39.13956,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9B20",
+	"traffic": 0,
+	"userWZ": -1613,
+	"lng": 117.174897,
+	"userZ": 203,
+	"user": 374,
+	"lat": 39.137215,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9B21",
+	"traffic": 0,
+	"userWZ": -1230,
+	"lng": 117.172284,
+	"userZ": 244,
+	"user": 415,
+	"lat": 39.13518,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9B22",
+	"traffic": 0,
+	"userWZ": -1487,
+	"lng": 117.171583,
+	"userZ": 38,
+	"user": 209,
+	"lat": 39.137215,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9D30",
+	"traffic": 0,
+	"userWZ": -445,
+	"lng": 117.194448,
+	"userZ": 144,
+	"user": 315,
+	"lat": 39.11604,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9D31",
+	"traffic": 0,
+	"userWZ": -1030,
+	"lng": 117.193748,
+	"userZ": 182,
+	"user": 353,
+	"lat": 39.114005,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9D32",
+	"traffic": 0,
+	"userWZ": -3431,
+	"lng": 117.19157,
+	"userZ": 61,
+	"user": 232,
+	"lat": 39.115295,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9ED1",
+	"traffic": 0,
+	"userWZ": -1349,
+	"lng": 117.18601,
+	"userZ": 33,
+	"user": 204,
+	"lat": 39.109367,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000D9ED2",
+	"traffic": 0,
+	"userWZ": -2785,
+	"lng": 117.184354,
+	"userZ": 74,
+	"user": 245,
+	"lat": 39.112905,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA071",
+	"traffic": 0,
+	"userWZ": -1400,
+	"lng": 117.17345,
+	"userZ": 158,
+	"user": 329,
+	"lat": 39.13407,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "36740007A120",
+	"traffic": 0,
+	"userWZ": -33,
+	"lng": 117.189999,
+	"userZ": 400,
+	"user": 571,
+	"lat": 39.301615,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA142",
+	"traffic": 0,
+	"userWZ": -803,
+	"lng": 117.158811,
+	"userZ": 103,
+	"user": 274,
+	"lat": 39.202323,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "36740007A1B1",
+	"traffic": 0,
+	"userWZ": -23,
+	"lng": 116.989063,
+	"userZ": 173,
+	"user": 344,
+	"lat": 39.39415,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "36740007A292",
+	"traffic": 0,
+	"userWZ": -137,
+	"lng": 116.917808,
+	"userZ": 15,
+	"user": 186,
+	"lat": 39.254635,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "36740007A2A0",
+	"traffic": 0,
+	"userWZ": -58,
+	"lng": 116.9637,
+	"userZ": 31,
+	"user": 202,
+	"lat": 39.615906,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA350",
+	"traffic": 0,
+	"userWZ": -1389,
+	"lng": 117.238318,
+	"userZ": 25,
+	"user": 196,
+	"lat": 39.142215,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA351",
+	"traffic": 0,
+	"userWZ": -1484,
+	"lng": 117.23586,
+	"userZ": 8,
+	"user": 179,
+	"lat": 39.138927,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA360",
+	"traffic": 0,
+	"userWZ": -741,
+	"lng": 117.275684,
+	"userZ": 15,
+	"user": 186,
+	"lat": 39.097227,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA3A2",
+	"traffic": 0,
+	"userWZ": -216,
+	"lng": 117.262855,
+	"userZ": 88,
+	"user": 259,
+	"lat": 39.140447,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA4F0",
+	"traffic": 0,
+	"userWZ": -1314,
+	"lng": 117.14891,
+	"userZ": 58,
+	"user": 229,
+	"lat": 39.19862,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA4F1",
+	"traffic": 0,
+	"userWZ": -1194,
+	"lng": 117.151169,
+	"userZ": 95,
+	"user": 266,
+	"lat": 39.195575,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA4F2",
+	"traffic": 0,
+	"userWZ": -1737,
+	"lng": 117.146651,
+	"userZ": 7,
+	"user": 178,
+	"lat": 39.195575,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "36740007A5A0",
+	"traffic": 0,
+	"userWZ": -220,
+	"lng": 117.013626,
+	"userZ": 63,
+	"user": 234,
+	"lat": 39.430309,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "36740007A5A1",
+	"traffic": 0,
+	"userWZ": -220,
+	"lng": 117.013626,
+	"userZ": 164,
+	"user": 335,
+	"lat": 39.430309,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA6F2",
+	"traffic": 0,
+	"userWZ": -27,
+	"lng": 117.143929,
+	"userZ": 171,
+	"user": 342,
+	"lat": 39.175961,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA721",
+	"traffic": 0,
+	"userWZ": -353,
+	"lng": 117.135909,
+	"userZ": 12,
+	"user": 183,
+	"lat": 39.18768,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "36740007A7A1",
+	"traffic": 0,
+	"userWZ": -15,
+	"lng": 117.198722,
+	"userZ": 105,
+	"user": 276,
+	"lat": 39.400613,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "36740007A7C2",
+	"traffic": 0,
+	"userWZ": -22,
+	"lng": 116.99296,
+	"userZ": 38,
+	"user": 209,
+	"lat": 39.267087,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA8C0",
+	"traffic": 0,
+	"userWZ": -163,
+	"lng": 117.27583,
+	"userZ": 41,
+	"user": 212,
+	"lat": 38.977637,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA8D2",
+	"traffic": 0,
+	"userWZ": -43,
+	"lng": 117.188798,
+	"userZ": 4,
+	"user": 175,
+	"lat": 38.978923,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA902",
+	"traffic": 0,
+	"userWZ": -452,
+	"lng": 117.100236,
+	"userZ": 48,
+	"user": 219,
+	"lat": 39.029533,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DA9D0",
+	"traffic": 0,
+	"userWZ": -1492,
+	"lng": 117.117936,
+	"userZ": 31,
+	"user": 202,
+	"lat": 39.095643,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DAA51",
+	"traffic": 0,
+	"userWZ": -252,
+	"lng": 117.04649,
+	"userZ": 112,
+	"user": 283,
+	"lat": 39.042993,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DAB20",
+	"traffic": 0,
+	"userWZ": -1285,
+	"lng": 117.252034,
+	"userZ": 126,
+	"user": 297,
+	"lat": 39.054088,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DAC10",
+	"traffic": 0,
+	"userWZ": -949,
+	"lng": 117.123677,
+	"userZ": 83,
+	"user": 254,
+	"lat": 39.142395,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}, {
+	"bsid": "3674000DAC11",
+	"traffic": 0,
+	"userWZ": -497,
+	"lng": 117.12202,
+	"userZ": 92,
+	"user": 263,
+	"lat": 39.14016,
+	"userMoranScatterQuadrant": 2,
+	"quadrant": 2
+}]
